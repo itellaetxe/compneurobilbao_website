@@ -1,0 +1,66 @@
+- name: Antonio Jimenez
+  photo: antonio.jpg
+  info: Postdoc, since 2023
+  email: benschop@physics.leidenuniv.nl
+  linkedin: https://www.linkedin.com/in/antonio-jimenez-marin-5703038a/?trk=people-guest_people_search-card&originalSubdomain=es
+  twitter: 
+  google_scholar: https://scholar.google.es/citations?user=JSwLqz8AAAAJ&hl=es
+  number_educ: 3
+  education1: PhD Student, 2018-2023
+  education2: Master Leiden University with Milan Allan
+  education3: Casimir PhD fellowship
+
+- name: Borja Camino
+  photo: borja.jpg
+  info: PhD, since 
+  email: benschop@physics.leidenuniv.nl
+  linkedin: https://www.linkedin.com/in/borja-camino-2a7826a4/?originalSubdomain=es
+  twitter: https://twitter.com/BorjaCamino
+  google_scholar: https://scholar.google.es/citations?hl=es&user=zVjCyDgAAAAJ
+  number_educ: 2
+  education1: PhD, Institute of Physics, Chinese Academy of Sciences, with [Hong-Jun Gao](http://n04.iphy.ac.cn/english/zt/hongjungao.html).
+  education2: BSc University of Chinese Academy of Sciences
+
+- name: Izaro Fernandez-Iriondo
+  photo: izaro.jpg
+  info: PhD student, since 
+  email: benschop@physics.leidenuniv.nl
+  linkedin: https://www.linkedin.com/in/izaro-fernandez-iriondo-b3b7289b/?originalSubdomain=es
+  google_scholar: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi2speGk_eEAxVdg_0HHVelD1MQFnoECBMQAQ&url=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3DkTsYoXAAAAAJ%26hl%3Des&usg=AOvVaw0Bok3cosnOAODZdoPIUprx&opi=89978449
+  number_educ: 2
+  education1: PhD, KIT, with [Wulf Wulfhekel](https://www.int.kit.edu/1941_701.php).
+  education2: MSc KIT
+
+- name: Jorge Garcia
+  photo: jorge.jpg
+  info: PhD Student, since 
+  email: b
+  linkedin: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi_-OaWk_eEAxXMhf0HHXVqB0wQFnoECBYQAQ&url=https%3A%2F%2Fes.linkedin.com%2Fin%2Fjorge-garcia-condado&usg=AOvVaw0jga4Tig9ppi3bPZIp9D2L&opi=89978449
+  twitter: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi_-OaWk_eEAxXMhf0HHXVqB0wQFnoECBAQAQ&url=https%3A%2F%2Ftwitter.com%2Fjgarciacondado%3Flang%3Des&usg=AOvVaw0h013vxo0wdIlUkAxknIe_&opi=89978449
+  google_scholar: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi_-OaWk_eEAxXMhf0HHXVqB0wQFnoECB4QAQ&url=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3D533sDjUAAAAJ%26hl%3Den&usg=AOvVaw1i--nx8dl6HHescHDnMNGI&opi=89978449
+  number_educ: 2
+  education1: Master Applied Physics, TU Delft
+  education2: Casimir/Nanofront PhD fellowship
+  education3:
+  education4:
+
+- name: Iñigo Tellaetxe
+  photo: iñigo.jpg
+  info: PhD Student, since 
+  email: b
+  linkedin: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi2nZ63k_eEAxX8hP0HHcxsB3AQFnoECBYQAQ&url=https%3A%2F%2Fes.linkedin.com%2Fin%2Fitellaetxeelorriaga&usg=AOvVaw1O6GrbH81X0HBt8dfDwHGS&opi=89978449
+  twitter: 
+  google_scholar:
+  number_educ: 2
+  education1: Master Leiden University
+  education2: BSc, University of the Basque Country
+  education3:
+  education4:
+
+- name: Unai
+  photo: unai.jpg
+  info: PhD student, since
+  email: h.s.m.van.bohemen@physics.leidenuniv.nl
+  number_educ: 1
+  education1: Leidse Instrumentmakers School
+  education2:

@@ -1,0 +1,195 @@
+---
+---
+
+@import "bootstrap";
+
+img { 
+    margin-bottom: 24px;
+	margin-top: 17px;
+    border-radius:2%;
+}
+
+
+body {
+	padding-top: 70px;
+}
+
+figcaption {
+    text-align: right;
+    margin-top: -20px;
+    margin-bottom: 20px;
+}
+
+
+
+/* Top navigation bar */
+
+
+
+p.byline {
+	text-align: center;
+	font-size: 18px;
+	line-height: 36px;
+	margin-top: -24px;
+	margin-bottom: 48px;
+}
+
+
+pubtit {
+	font-size: 18px;
+	font-weight: bold;
+}
+
+pubdesc {
+	text-align: justify;
+}
+
+
+.container-fluid {
+	margin-right: auto;
+	margin-left: auto;
+	max-width: 1300px; /* or 950px */
+}
+
+.navbar-brand{
+	padding: 0px 5px;
+	height: 0px;
+
+	> img {
+		margin-bottom: 10px;
+		margin-top: 5px;
+		display: inline;
+		width: 10%;
+	}
+}
+
+/* Home, News */
+#newsid p {
+	text-align: left;
+}
+
+#homeidtmp h1 {
+	text-align: center;
+}
+
+#newsid img {
+	margin-top: 6px;
+	margin-bottom: 6px;
+}
+
+
+
+/* Team & Publications */
+#gridid img { margin: 16px 22px 6px 0; border-radius:10%; box-shadow: 2px 2px 5px #888888 }
+#homeid img { margin: 0 0 0 0; border-radius:5%; box-shadow: 0px 0px 0px #888888 }
+#picid img { margin: 6px 3px 60px 6px; border-radius:1%; box-shadow: 2px 2px 5px #888888 }
+#gridid .row { margin-bottom: 24px; }
+
+
+/* Grid overrides */
+.col-sm-1, .col-sm-2, .col-sm-3, .col-sm-5, .col-sm-6,
+.col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12 {
+	padding-left: 16px;
+	padding-right: 16px;
+}
+
+/* Grid overrides */
+.col-sm-4 {
+	padding-left: 26px;
+	padding-right: 26px;
+}
+
+
+/* Carusel */
+
+.carousel {
+    border-radius: 3px 3px 3px 3px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+
+/* TEAM MEMEBER AND SOCIAL ICONS */
+.team-member {
+    float: left;
+    width: 35%;
+    margin-right: 10px; /* Aumenta este valor para agregar más espacio entre la foto y el texto */
+}
+
+.team-info {
+    float: left;
+    width: calc(55% - 30px); /* Ajusta el ancho si has cambiado el margen en .team-member */
+    position: relative;
+    padding-left: 30px; /* También puedes ajustar este valor para agregar más espacio */
+    padding-right: 50px;
+}
+/* Asegúrate de que los elementos dentro de .team-info-header estén alineados horizontalmente */
+.team-info-header {
+    display: flex;
+    align-items: center; /* Esto alineará los elementos verticalmente en el centro */
+    flex-wrap: wrap; /* Esto permitirá que los elementos se ajusten según sea necesario */
+}
+
+/* Asegúrate de que el nombre no tiene un margen excesivo que empuje los íconos hacia abajo o a la derecha */
+.team-info-header h4 {
+    margin-left: 0px; /* Quitar margen izquierdo si no es necesario */
+    margin-right: 10px; /* Espacio entre el nombre y los iconos, ajusta según necesidad */
+    margin-bottom: 10px; /* Quitar margen inferior para evitar empujar iconos hacia abajo */
+    flex-shrink: 0; /* Previene que el nombre se encoja cuando no hay suficiente espacio */
+}
+
+.position-title p {
+    margin-top: 1em;
+    font-style: italic;
+    clear: both; /* Asegúrate de que se aclare el float si hay elementos flotantes antes */
+}
+
+.social-icons {
+    display: flex;
+    gap: 5px;
+    flex-wrap: nowrap; /* Esto evitará que los íconos se envuelvan en una nueva línea */
+    align-items: center; /* Alinea los íconos verticalmente con el nombre */
+}
+
+.fa-icon {
+    font-size: 20px;
+    margin-right: 5px; /* Ajusta el espacio a la derecha si es necesario */
+}
+
+/* Font Awesome Icon Colors */
+.fa-twitter { color: #1DA1F2; }
+.fa-linkedin { color: #0077B5; }
+.fa-google { color: #000000; }
+
+
+/* Home Page */
+#home-image img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 30px;
+}
+
+@media (max-width: 768px) {
+    #home-image img {
+        width: 100%;
+        height: 200px; /* O cualquier altura que desees */
+    }
+}
+
+@media (min-width: 769px) and (max-width: 992px) {
+    #home-image img {
+        width: 100%;
+        height: 300px; /* O cualquier altura que desees */
+    }
+}
+
+/* Home page logos encima del footer */
+.image-center {
+    text-align: center;
+}
+
+/* Space between section from Team members */
+.section-space {
+    margin-top: 100px; /* O ajusta según tus necesidades */
+}
