@@ -7,7 +7,7 @@ permalink: /
 ---
 
 <div markdown="0" id="home-image">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/home1.jpg" alt="CompNeuro Lab" />
+    <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/home1.jpg" alt="CompNeuro Bilbao Lab" />
 </div>
 
 
