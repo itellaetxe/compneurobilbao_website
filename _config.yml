@@ -10,8 +10,9 @@ title: CompNeuro Lab
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Website of the CompNeuro Lab.
-baseurl: ""
-url: ""
+baseurl: "/BilbaoLab" # el nombre del repositorio
+url: "https://ifiriondo.github.io" # tu URL de GitHub Pages
+
 
 include:
   - .htaccess
