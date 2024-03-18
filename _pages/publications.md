@@ -12,6 +12,6 @@ permalink: /publications/
 <!-- ## Full List of publications -->
 
 <div id="publications-bibbase">
-  <script src="https://bibbase.org/show?bib=https://raw.githubusercontent.com/ifiriondo/compneuro/main/biblio.bib"></script>
+  <script src="https://bibbase.org/show?bib=https://raw.githubusercontent.com/ifiriondo/BilbaoLab/master/_data/biblio.bib&jsonp=1"></script>
 </div>
 
