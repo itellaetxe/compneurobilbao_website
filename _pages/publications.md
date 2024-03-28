@@ -1,11 +1,10 @@
 ---
-title: "CompNeuro Lab - Publications"
+title: CompNeuro Lab - Publications
+permalink: "/publications/"
 layout: gridlay
-excerpt: "CompNeuro Lab -- Publications."
+excerpt: CompNeuro Lab -- Publications.
 sitemap: false
-permalink: /publications/
 ---
-
 
 # Publications
 

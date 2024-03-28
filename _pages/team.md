@@ -1,11 +1,10 @@
 ---
-title: "CompNeuro Lab - Team"
+title: CompNeuro Lab - Team
+permalink: "/team/"
 layout: gridlay
-excerpt: "CompNeuro Lab: Team members"
+excerpt: 'CompNeuro Lab: Team members'
 sitemap: false
-permalink: /team/
 ---
-
 
 # Principal Investigators
 {% assign number_printed = 0 %}

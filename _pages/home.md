@@ -1,9 +1,9 @@
 ---
-title: "CompNeuro Lab - Home"
+title: CompNeuro Lab - Home
+permalink: "/"
 layout: homelay
-excerpt: "CompNeuro Lab at IIS Biobizkaia"
+excerpt: CompNeuro Lab at IIS Biobizkaia
 sitemap: false
-permalink: /
 ---
 
 <div markdown="0" id="home-image">
