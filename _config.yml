@@ -6,6 +6,9 @@ collections:
     title: Pages
     output: true
     permalink: "/:path/"
+  posts:
+    title: Posts
+    output: true
   uploads:
     title: Uploads
     output: true
