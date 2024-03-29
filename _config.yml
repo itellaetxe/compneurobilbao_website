@@ -8,6 +8,10 @@ collections:
   uploads:
     title: Uploads
     output: true
+  pages:
+    output: true
+    permalink: /:path/
+
 email: your-email@domain.com
 description: 'Website of the CompNeuro Lab.
 
