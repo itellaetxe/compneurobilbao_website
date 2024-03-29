@@ -2,16 +2,16 @@
 title: CompNeuro Bilbao Lab
 timezone: UTC
 collections:
+  pages:
+    title: Pages
+    output: true
+    permalink: "/:path/"
   posts:
     title: Posts
     output: true
   uploads:
     title: Uploads
     output: true
-  pages:
-    output: true
-    permalink: /:path/
-
 email: your-email@domain.com
 description: 'Website of the CompNeuro Lab.
 
