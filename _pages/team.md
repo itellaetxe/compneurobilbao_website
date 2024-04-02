@@ -278,7 +278,6 @@ sitemap: false
 <div class="row">
 
 <div class="col-sm-4 clearfix">
-<h4>PreviousLabMembers</h4>
 {% for member in site.data.previous_lab_members %}
 {{ member.name }}
 {% endfor %}
