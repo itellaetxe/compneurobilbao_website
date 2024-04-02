@@ -1,6 +1,6 @@
 ---
 title: "CompNeuro Lab - Pictures"
-layout: piclay
+layout: default
 excerpt: "CompNeuro Lab -- Pictures"
 permalink: /pictures/
 ---
