@@ -1,8 +1,8 @@
 ---
-title: "Allan Lab - Pictures"
+title: Allan Lab - Pictures
+permalink: "/pictures/"
 layout: piclay
-excerpt: "Allan Lab -- Pictures"
-permalink: /pictures/
+excerpt: Allan Lab -- Pictures
 ---
 
 # Pictures
