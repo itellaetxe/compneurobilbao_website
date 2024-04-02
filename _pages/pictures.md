@@ -100,10 +100,5 @@ Jump to: [Group](#group), [Bilbao Brain Connectivity Workshop](#Bilbao_Brain_Con
 <p> &nbsp; </p>
 
 ## NeuroTxoko Day
-<figure>
-  <video width="60%" controls>
-    <source src="./images/gallerypic/neurotxoko_video.mp4" type="video/mp4">
-    Tu navegador no soporta la etiqueta de video.
-  </video>
-  <figcaption>Summary of the day</figcaption>
-</figure>
+<iframe width="560" height="315" src="https://photos.app.goo.gl/5L8GafQN4J7iuYLh9" frameborder="0" allowfullscreen></iframe>
+
