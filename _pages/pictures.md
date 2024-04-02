@@ -19,7 +19,7 @@ Jump to: [Group](#group), [Bilbao Brain Connectivity Workshop](#workshop), [Conf
 
 ## Bilbao Brain Connectivity Workshop
 #### Short video summarizing the workshop day 
-<iframe width="560" height="315" src="https://youtu.be/nBB1Ah6tvwU" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/nBB1Ah6tvwU?si=JPHPeh43LIbsBwDz" frameborder="0" allowfullscreen></iframe>
 
 ## Conferences
 ### Organization for Human Brain Mapping (OHBM) 2022
