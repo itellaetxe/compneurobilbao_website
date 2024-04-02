@@ -34,6 +34,11 @@ sitemap: false
     <i class="fab fa-linkedin"></i>
   </a>
   {% endif %}
+  {% if member.orcid %}
+  <a href="{{ member.orcid }}" target="_blank" class="fab-icon">
+    <i class="fab fa-orcid"></i>
+  </a>
+  {% endif %}
   {% if member.google_scholar %}
   <a href="{{ member.google_scholar }}" target="_blank" class="fab-icon">
     <i class="fab fa-google"></i>
@@ -101,6 +106,11 @@ sitemap: false
     <i class="fab fa-linkedin"></i>
   </a>
   {% endif %}
+  {% if member.orcid %}
+  <a href="{{ member.orcid }}" target="_blank" class="fab-icon">
+    <i class="fab fa-orcid"></i>
+  </a>
+  {% endif %}
   {% if member.google_scholar %}
   <a href="{{ member.google_scholar }}" target="_blank" class="fab-icon">
     <i class="fab fa-google"></i>
@@ -166,6 +176,11 @@ sitemap: false
   {% if member.linkedin %}
   <a href="{{ member.linkedin }}" target="_blank" class="fab-icon">
     <i class="fab fa-linkedin"></i>
+  </a>
+  {% endif %}
+  {% if member.orcid %}
+  <a href="{{ member.orcid }}" target="_blank" class="fab-icon">
+    <i class="fab fa-orcid"></i>
   </a>
   {% endif %}
   {% if member.google_scholar %}
