@@ -11,10 +11,7 @@ layout: homelay
 </div>
 
 
-
-
-
-KAIXOOOOOOOO As an energetic research team at the IIS Biobizkaia in Bilbao, our mission is to delve into and decode the complexities of the brain using advanced computational neuroimaging methods. Our focus includes the analysis of neural networks, brain connectivity, and the development of novel algorithms for understanding brain function and disorders. Our ultimate goal is to craft cutting-edge tools and methodologies to tackle the most pressing questions in neuroscience (see Research).
+As an energetic research team at the IIS Biobizkaia in Bilbao, our mission is to delve into and decode the complexities of the brain using advanced computational neuroimaging methods. Our focus includes the analysis of neural networks, brain connectivity, and the development of novel algorithms for understanding brain function and disorders. Our ultimate goal is to craft cutting-edge tools and methodologies to tackle the most pressing questions in neuroscience (see Research).
 
 We are thrilled about the opportunity to grow and evolve within the vibrant scientific community of Bilbao. Our lab will be ideally situated to foster collaboration and innovation, sharing insights and ideas with leading researchers in computational neuroscience and related fields.
 
