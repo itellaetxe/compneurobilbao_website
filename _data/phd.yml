@@ -32,18 +32,15 @@
   education3:
   education4:
 
-- name: Iñigo Tellaetxe
+- name: Iñigo Tellaetxe Elorriaga
   photo: iñigo.JPG
-  info: PhD Student, since 
-  email: b
-  linkedin: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi2nZ63k_eEAxX8hP0HHcxsB3AQFnoECBYQAQ&url=https%3A%2F%2Fes.linkedin.com%2Fin%2Fitellaetxeelorriaga&usg=AOvVaw1O6GrbH81X0HBt8dfDwHGS&opi=89978449
-  twitter: 
-  google_scholar:
+  info: PhD Student, since 2023
+  email: inigotellaetxe@gmail.com
+  orcid: https://orcid.org/0009-0001-1832-5183
+  linkedin: https://www.linkedin.com/in/itellaetxeelorriaga/
   number_educ: 2
-  education1: Master Leiden University
-  education2: BSc, University of the Basque Country
-  education3:
-  education4:
+  education1: MSc Biomedical Technologies in Mondragon Unibertsitatea
+  education2: BSc Biomedical Engineering in Mondragon Unibertsitatea
 
 - name: Unai
   photo: unai.jpg
