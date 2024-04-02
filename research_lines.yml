@@ -1,0 +1,29 @@
+
+- title: "Applied Machine Learning for Computational Neuroscience"
+  image: ShotNoise.png # AgeML image
+  description: Some cool stuff 
+  authors: J. Cortés, A. Erramuzpe, J. García-Condado, I. Tellaetxe-Elorriaga, M. Razkin, U. Sainz
+  link:
+    url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.076001 # Url to some publications??
+    display: Phys. Rev. Lett. 132, 076001 (Editors' Suggestion)  # Link name
+  highlight: 1
+
+- title: "Data-Driven Computational Neuroscience"
+  image: imageaward_edited.png  # 
+  description: Some even cooler stuff
+  authors: J. Cortés, A. Erramuzpe, A. Jiménez-Marín, B. Camino, I. Fernandez-Iriondo
+  link:
+    url: https://www.nature.com/articles/s41467-023-39109-w
+    display: Nature Communications 4, 3341 (2023)
+  highlight: 1
+  news2: See [news item](https://www.universiteitleiden.nl/en/news/2023/06/new-method-to-find-majoranas-tested-for-the-first-time) by Michelle Willebrands
+
+- title: "Preclinical Computational Neuroscience"
+  image: imageaward_edited.png  # 
+  description: Some cell stuff
+  authors: J. Cortés, A. Erramuzpe, P. Bonifazi, L. Prado
+  link:
+    url: https://www.nature.com/articles/s41467-023-39109-w
+    display: Nature Communications 4, 3341 (2023)
+  highlight: 1
+  news2: See [news item](https://www.universiteitleiden.nl/en/news/2023/06/new-method-to-find-majoranas-tested-for-the-first-time) by Michelle Willebrands
