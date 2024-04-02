@@ -287,21 +287,7 @@ sitemap: false
 <div class="col-sm-12 clearfix">
   <h4>{{ member.name }}</h4>
   <i>{{ member.duration }} <br> {{ member.info }}</i>
-  <ul style="overflow: hidden">
-    {% if member.number_educ == 1 %}
-    <li>{{ member.education1 }}</li>
-    {% endif %}
-    {% if member.number_educ >= 2 %}
-    <li>{{ member.education1 }}</li>
-    <li>{{ member.education2 }}</li>
-    {% endif %}
-    {% if member.number_educ >= 3 %}
-    <li>{{ member.education3 }}</li>
-    {% endif %}
-    <!-- Add more education levels if necessary -->
-  </ul>
-
-  </ul>
+  <ul style="overflow: hidden"> </ul>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
