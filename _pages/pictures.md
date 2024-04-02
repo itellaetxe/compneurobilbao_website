@@ -1,10 +1,9 @@
 ---
-title: "CompNeuro Lab - Pictures"
+title: CompNeuro Lab - Pictures
+permalink: "/pictures/"
 layout: piclay
-excerpt: "CompNeuro Lab -- Pictures"
-permalink: /pictures/
+excerpt: CompNeuro Lab -- Pictures
 ---
-
 
 # Pictures
 Jump to: [Group](#group), [Bilbao Brain Connectivity Workshop](#workshop), [Conferences](#conferences), [NeuroTxoko](#neurotxoko)
