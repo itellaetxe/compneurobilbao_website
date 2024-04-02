@@ -274,13 +274,20 @@ sitemap: false
 {% endif %}
 
 
-## Previous Members
+# Previous Members
 <div class="row">
-
-<div class="col-sm-4 clearfix">
-{% for member in site.data.previous_lab_members %}
-{{ member.name }}
-{% endfor %}
+  <div class="col-sm-4 clearfix">
+    <ul style="list-style-type:disc;">
+      {% for member in site.data.previous_lab_members %}
+        <li style="font-size: larger; font-weight: bold;">
+          {{ member.name }}
+          <hr>
+          <p>Some additional information about {{ member.name }}</p>
+        </li>
+      {% endfor %}
+    </ul>
+  </div> 
 </div>
+
 
 
