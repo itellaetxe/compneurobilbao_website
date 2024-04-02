@@ -1,10 +1,11 @@
 ---
+
 title: "CompNeuro Lab - Pictures"
 layout: default
 excerpt: "CompNeuro Lab -- Pictures"
 permalink: /pictures/
----
 
+---
 
 # Pictures
 Jump to: [Group](#group), [Bilbao Brain Connectivity Workshop](#workshop), [Conferences](#conferences), [NeuroTxoko](#neurotxoko)
