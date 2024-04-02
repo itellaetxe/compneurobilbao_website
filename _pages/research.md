@@ -18,7 +18,7 @@ sitemap: false
 <div class="row">
 {% endif %}
 
-<div class="col-sm-6 clearfix">
+<div class="col-sm-5 clearfix">
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/picresearch/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
