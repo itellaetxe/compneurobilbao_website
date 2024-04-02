@@ -1,11 +1,10 @@
 ---
 title: CompNeuro Lab - Research
+permalink: "/research/"
 layout: gridlay
 excerpt: CompNeuro Lab -- Research
 sitemap: false
-permalink: "/research/"
 ---
-
 
 # Research Lines
 
