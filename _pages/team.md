@@ -274,7 +274,7 @@ sitemap: false
 {% endif %}
 
 
-## Previous Lab Members
+## Previous Members
 <div class="row">
 
 <div class="col-sm-4 clearfix">
