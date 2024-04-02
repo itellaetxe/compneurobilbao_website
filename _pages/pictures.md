@@ -1,10 +1,8 @@
 ---
-
-title: "CompNeuro Lab - Pictures"
+title: CompNeuro Lab - Pictures
+permalink: "/pictures/"
 layout: default
-excerpt: "CompNeuro Lab -- Pictures"
-permalink: /pictures/
-
+excerpt: CompNeuro Lab -- Pictures
 ---
 
 # Pictures
