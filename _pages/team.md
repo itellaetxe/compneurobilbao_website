@@ -275,19 +275,34 @@ sitemap: false
 
 
 # Previous Members
+{% assign number_printed = 0 %}
+{% for member in site.data.previous_members %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
 <div class="row">
-  <div class="col-sm-4 clearfix">
-    <ul style="list-style-type:disc;">
-      {% for member in site.data.previous_lab_members %}
-        <li style="font-size: larger; font-weight: bold;">
-          {{ member.name }}
-          <hr>
-          <p>Some additional information about {{ member.name }}</p>
-        </li>
-      {% endfor %}
-    </ul>
-  </div> 
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <h4>{{ member.name }}</h4>
+  <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
+  <ul style="overflow: hidden">
+
+  </ul>
 </div>
 
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
 
 
