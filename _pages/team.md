@@ -75,7 +75,7 @@ sitemap: false
 
 # Postdocs
 {% assign number_printed = 0 %}
-{% for member in site.data.phd_postdoc %}
+{% for member in site.data.postdoc %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -142,7 +142,7 @@ sitemap: false
 
 # PhD students 
 {% assign number_printed = 0 %}
-{% for member in site.data.phd_postdoc %}
+{% for member in site.data.phd %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
