@@ -1,7 +1,7 @@
 ---
 title: CompNeuro Lab - Research
 permalink: "/research/"
-layout: research
+layout: gridlay
 excerpt: CompNeuro Lab -- Research
 sitemap: false
 ---
