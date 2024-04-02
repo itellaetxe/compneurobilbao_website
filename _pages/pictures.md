@@ -8,7 +8,7 @@ permalink: /pictures/
 ---
 
 # Pictures
-Jump to: [Group](#group), [Bilbao Brain Connectivity Workshop](#workshop), [Conferences](#conferences), [NeuroTxoko](#neurotxoko)
+Jump to: [Group](#group), [Bilbao Brain Connectivity Workshop](#Bilbao_Brain_Connectivity_Workshop), [Conferences](#conferences), [NeuroTxoko Day](#NeuroTxoko_Day)
 
 
 ## Group
