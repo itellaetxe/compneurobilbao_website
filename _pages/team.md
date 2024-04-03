@@ -44,6 +44,16 @@ sitemap: false
     <i class="fab fa-google"></i>
   </a>
   {% endif %}
+  {% if member.github %}
+  <a href="{{ member.github }}" target="_blank" class="fab-icon">
+  <i class="fab fa-github"></i>
+  </a>
+  {% endif %}
+  {% if member.user %}
+  <a href="{{ member.user }}" target="_blank" class="fab-icon">
+  <i class="fab fa-user"></i>
+  </a>
+  {% endif %}
   </div>
   </div>
   <p><i>{{ member.info }}</i></p>
@@ -144,6 +154,16 @@ sitemap: false
     <i class="fab fa-google"></i>
   </a>
   {% endif %}
+  {% if member.github %}
+  <a href="{{ member.github }}" target="_blank" class="fab-icon">
+  <i class="fab fa-github"></i>
+  </a>
+  {% endif %}
+  {% if member.user %}
+  <a href="{{ member.user }}" target="_blank" class="fab-icon">
+  <i class="fab fa-user"></i>
+  </a>
+  {% endif %}
   </div>
   </div>
   <p><i>{{ member.info }}</i></p>
@@ -235,6 +255,16 @@ sitemap: false
     <i class="fab fa-google"></i>
   </a>
   {% endif %}
+  {% if member.github %}
+  <a href="{{ member.github }}" target="_blank" class="fab-icon">
+  <i class="fab fa-github"></i>
+  </a>
+  {% endif %}
+  {% if member.user %}
+  <a href="{{ member.user }}" target="_blank" class="fab-icon">
+  <i class="fab fa-user"></i>
+  </a>
+  {% endif %}
   </div>
   </div>
   <p><i>{{ member.info }}</i></p>
@@ -320,6 +350,16 @@ sitemap: false
   {% if member.google_scholar %}
   <a href="{{ member.google_scholar }}" target="_blank" class="fab-icon">
     <i class="fab fa-google"></i>
+  </a>
+  {% endif %}
+  {% if member.github %}
+  <a href="{{ member.github }}" target="_blank" class="fab-icon">
+  <i class="fab fa-github"></i>
+  </a>
+  {% endif %}
+  {% if member.user %}
+  <a href="{{ member.user }}" target="_blank" class="fab-icon">
+  <i class="fab fa-user"></i>
   </a>
   {% endif %}
   </div>

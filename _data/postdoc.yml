@@ -1,14 +1,15 @@
-- name: Antonio Jimenez
+- name: Antonio Jimenez-Marin
   photo: antonio.JPG
-  info: Postdoc, since 2023
-  email: benschop@physics.leidenuniv.nl
-  linkedin: https://www.linkedin.com/in/antonio-jimenez-marin-5703038a/?trk=people-guest_people_search-card&originalSubdomain=es
-  twitter: 
-  google_scholar: https://scholar.google.es/citations?user=JSwLqz8AAAAJ&hl=es
+  info: Postdoc, since 2024
+  email: antoniojm.compneuro@gmail.com
+  linkedin: https://www.linkedin.com/in/antonio-jimenez-marin-5703038a/
+  user: https://ajimenezmarin.github.io/
+  google_scholar: https://scholar.google.es/citations?hl=es&tzom=-120&user=JSwLqz8AAAAJ
+  github: https://github.com/ajimenezmarin
   number_educ: 3
-  education1: PhD Student, 2018-2023
-  education2: Master Leiden University with Milan Allan
-  education3: Casimir PhD fellowship
+  education1: PhD student in Biomedical Research at the University of the Basque Country, 2018-2024
+  education2: Master in Biomedical Engineering at the University of the Basque Country
+  education3: Degree in Telecomunication Engineering at the University of Granada.
 
 - name: Mayya Sundukova
   photo: 
