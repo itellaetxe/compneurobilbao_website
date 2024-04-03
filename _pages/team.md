@@ -160,8 +160,8 @@ sitemap: false
   </a>
   {% endif %}
   {% if member.user %}
-  <a href="{{ member.user }}" target="_blank" class="fab-icon">
-  <i class="fab fa-user"></i>
+  <a href="{{ member.user }}" target="_blank" class="fa-icon">
+  <i class="fa fa-user"></i>
   </a>
   {% endif %}
   </div>
@@ -270,8 +270,8 @@ sitemap: false
   </a>
   {% endif %}
   {% if member.user %}
-  <a href="{{ member.user }}" target="_blank" class="fab-icon">
-  <i class="fab fa-user"></i>
+  <a href="{{ member.user }}" target="_blank" class="fa-icon">
+  <i class="fa fa-user"></i>
   </a>
   {% endif %}
   </div>
