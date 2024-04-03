@@ -35,10 +35,6 @@ Jump to [Principal Investigators](#principal-investigators),
   <i class="fa fa-user" aria-hidden="true"></i>
   </a>
   {% endif %}
-  {% if member.email %}
-  <a href="{{ member.email }}" target="_blank" class="fab-icon">
-  <i class="fa fa-envelope" aria-hidden="true"></i>  </a>
-  {% endif %}
   {% if member.twitter %}
   <a href="{{ member.twitter }}" target="_blank" class="fab-icon">
     <i class="fab fa-twitter"></i>
@@ -154,10 +150,6 @@ Jump to [Principal Investigators](#principal-investigators),
   <i class="fa fa-user" aria-hidden="true"></i>
   </a>
   {% endif %}
-  {% if member.email %}
-  <a href="{{ member.email }}" target="_blank" class="fab-icon">
-  <i class="fa fa-envelope" aria-hidden="true"></i>  </a>
-  {% endif %}
   {% if member.twitter %}
   <a href="{{ member.twitter }}" target="_blank" class="fab-icon">
     <i class="fab fa-twitter"></i>
@@ -267,10 +259,6 @@ Jump to [Principal Investigators](#principal-investigators),
   <a href="{{ member.user }}" target="_blank" class="fab-icon">
   <i class="fa fa-user" aria-hidden="true"></i>
   </a>
-  {% endif %}
-  {% if member.email %}
-  <a href="{{ member.email }}" target="_blank" class="fab-icon">
-  <i class="fa fa-envelope" aria-hidden="true"></i>  </a>
   {% endif %}
   {% if member.twitter %}
   <a href="{{ member.twitter }}" target="_blank" class="fab-icon">
@@ -387,10 +375,6 @@ Jump to [Principal Investigators](#principal-investigators),
   <a href="{{ member.user }}" target="_blank" class="fab-icon">
   <i class="fa fa-user" aria-hidden="true"></i>
   </a>
-  {% endif %}
-  {% if member.email %}
-  <a href="{{ member.email }}" target="_blank" class="fab-icon">
-  <i class="fa fa-envelope" aria-hidden="true"></i>  </a>
   {% endif %}
   {% if member.twitter %}
   <a href="{{ member.twitter }}" target="_blank" class="fab-icon">
