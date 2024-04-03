@@ -6,6 +6,8 @@ excerpt: 'CompNeuro Lab: Team members'
 sitemap: false
 ---
 
+Jump to [Principal Investigators](#Principal-Investigators), [Postdocs](#postdocs), [PhD Students](#PhD-Students), [Bachelor and Master Students](#Bachelor-and-Master-Students), [Previous Members](#lPrevious-Members).
+
 # Principal Investigators
 {% assign number_printed = 0 %}
 {% for member in site.data.pi %}
@@ -377,17 +379,17 @@ sitemap: false
   {% endif %}
   {% if member.linkedin %}
   <a href="{{ member.linkedin }}" target="_blank" class="fab-icon">
-    <i class="fab fa-linkedin"></i>
+  <i class="fab fa-linkedin"></i>
   </a>
   {% endif %}
   {% if member.orcid %}
   <a href="{{ member.orcid }}" target="_blank" class="fab-icon">
-    <i class="fab fa-orcid"></i>
+  <i class="fab fa-orcid"></i>
   </a>
   {% endif %}
   {% if member.google_scholar %}
   <a href="{{ member.google_scholar }}" target="_blank" class="fab-icon">
-    <i class="fab fa-google"></i>
+  <i class="fab fa-google"></i>
   </a>
   {% endif %}
   {% if member.github %}
