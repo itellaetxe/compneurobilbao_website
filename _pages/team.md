@@ -197,6 +197,15 @@ sitemap: false
   <li> {{ member.education4 }} </li>
   <li> {{ member.education5 }} </li>
   {% endif %}
+
+  {% if member.number_educ == 6 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  <li> {{ member.education5 }} </li>
+  <li> {{ member.education6 }} </li>
+  {% endif %}
     <!-- Add more education levels if necessary -->
   </ul>
   </div>
@@ -217,9 +226,10 @@ sitemap: false
 
 <div class="section-space"></div> <!-- Espacio añadido aquí -->
 
-# PhD students 
+# Bachelor and Master Students
+
 {% assign number_printed = 0 %}
-{% for member in site.data.phd %}
+{% for member in site.data.bachelor_master %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -298,6 +308,15 @@ sitemap: false
   <li> {{ member.education4 }} </li>
   <li> {{ member.education5 }} </li>
   {% endif %}
+
+  {% if member.number_educ == 6 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  <li> {{ member.education5 }} </li>
+  <li> {{ member.education6 }} </li>
+  {% endif %}
     <!-- Add more education levels if necessary -->
   </ul>
   </div>
@@ -317,83 +336,6 @@ sitemap: false
 {% endif %}
 
 <div class="section-space"></div> <!-- Espacio añadido aquí -->
-
-# Bachelor and Master Students
-
-{% assign number_printed = 0 %}
-{% for member in site.data.bachelor_master %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-12 clearfix">
-  <div class="team-member">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" />
-  </div>
-  <div class="team-info">
-  <div class="team-info-header">
-  <h4>{{ member.name }}</h4>
-  <div class="social-icons">
-  {% if member.twitter %}
-  <a href="{{ member.twitter }}" target="_blank" class="fab-icon">
-    <i class="fab fa-twitter"></i>
-  </a>
-  {% endif %}
-  {% if member.linkedin %}
-  <a href="{{ member.linkedin }}" target="_blank" class="fab-icon">
-    <i class="fab fa-linkedin"></i>
-  </a>
-  {% endif %}
-  {% if member.google_scholar %}
-  <a href="{{ member.google_scholar }}" target="_blank" class="fab-icon">
-    <i class="fab fa-google"></i>
-  </a>
-  {% endif %}
-  {% if member.github %}
-  <a href="{{ member.github }}" target="_blank" class="fab-icon">
-  <i class="fab fa-github"></i>
-  </a>
-  {% endif %}
-  {% if member.user %}
-  <a href="{{ member.user }}" target="_blank" class="fab-icon">
-  <i class="fab fa-user"></i>
-  </a>
-  {% endif %}
-  </div>
-  </div>
-  <p><i>{{ member.info }}</i></p>
-  <ul style="overflow: hidden">
-    {% if member.number_educ == 1 %}
-    <li>{{ member.education1 }}</li>
-    {% endif %}
-    {% if member.number_educ >= 2 %}
-    <li>{{ member.education1 }}</li>
-    <li>{{ member.education2 }}</li>
-    {% endif %}
-    {% if member.number_educ >= 3 %}
-    <li>{{ member.education3 }}</li>
-    {% endif %}
-    <!-- Add more education levels if necessary -->
-  </ul>
-  </div>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
 
 # Previous Members
 {% assign number_printed = 0 %}
