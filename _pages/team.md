@@ -6,7 +6,7 @@ excerpt: 'CompNeuro Lab: Team members'
 sitemap: false
 ---
 
-Jump to [Principal Investigators](#Principal-Investigators), [Postdocs](#postdocs), [PhD Students](#PhD-Students), [Bachelor and Master Students](#Bachelor-and-Master-Students), [Previous Members](#lPrevious-Members).
+Jump to [Principal Investigators](#Principal-Investigators), [Postdocs](#postdocs), [PhD Students](#PhD-Students), [Bachelor and Master Students](#Bachelor-and-Master-Students), [Previous Members](#Previous-Members).
 
 # Principal Investigators
 {% assign number_printed = 0 %}
