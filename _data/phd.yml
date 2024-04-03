@@ -1,13 +1,14 @@
-- name: Borja Camino
+- name: Borja Camino Pontes
   photo: borja.JPG
-  info: PhD, since 
-  email: benschop@physics.leidenuniv.nl
-  linkedin: https://www.linkedin.com/in/borja-camino-2a7826a4/?originalSubdomain=es
-  twitter: https://twitter.com/BorjaCamino
+  info: PhD Student, since 2018
+  email: caminopontes@gmail.com
+  linkedin: https://www.linkedin.com/in/borja-camino-2a7826a4/
   google_scholar: https://scholar.google.es/citations?hl=es&user=zVjCyDgAAAAJ
-  number_educ: 2
-  education1: PhD, Institute of Physics, Chinese Academy of Sciences, with [Hong-Jun Gao](http://n04.iphy.ac.cn/english/zt/hongjungao.html).
-  education2: BSc University of Chinese Academy of Sciences
+  OrcID: https://orcid.org/0000-0002-9071-9304
+  number_educ: 3
+  education1: MSc in Computational Engineering and Intelligent Systems in University of the Basque Country
+  education2: MSc in Biomedical Engineering in University of the Basque Country
+  education3: BSc in Chemical Engineering in University of the Basque Country
 
 - name: Izaro Fernandez-Iriondo
   photo: izaro.JPG
@@ -36,13 +37,12 @@
   photo: iñigo.JPG
   info: PhD Student, since 2023
   email: inigotellaetxe@gmail.com
-  orcid: https://orcid.org/0009-0001-1832-5183
   linkedin: https://www.linkedin.com/in/itellaetxeelorriaga/
   number_educ: 2
   education1: MSc Biomedical Technologies in Mondragon Unibertsitatea
   education2: BSc Biomedical Engineering in Mondragon Unibertsitatea
 
-- name: Unai
+- name: Unai Sainz
   photo: unai.jpg
   info: PhD student, since
   email: h.s.m.van.bohemen@physics.leidenuniv.nl
