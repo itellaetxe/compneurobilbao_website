@@ -160,8 +160,8 @@ sitemap: false
   </a>
   {% endif %}
   {% if member.user %}
-  <a href="{{ member.user }}" target="_blank" class="fa-icon">
-  <i class="fa fa-user"></i>
+  <a href="{{ member.user }}" target="_blank" class="fab-icon">
+  <i class="fa fa-user" aria-hidden="true"></i>
   </a>
   {% endif %}
   </div>
