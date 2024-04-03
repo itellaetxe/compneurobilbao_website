@@ -24,6 +24,11 @@ sitemap: false
   <div class="team-info-header">
   <h4>{{ member.name }}</h4>
   <div class="social-icons">
+  {% if member.user %}
+  <a href="{{ member.user }}" target="_blank" class="fab-icon">
+  <i class="fa fa-user" aria-hidden="true"></i>
+  </a>
+  {% endif %}
   {% if member.twitter %}
   <a href="{{ member.twitter }}" target="_blank" class="fab-icon">
     <i class="fab fa-twitter"></i>
@@ -134,6 +139,11 @@ sitemap: false
   <div class="team-info-header">
   <h4>{{ member.name }}</h4>
   <div class="social-icons">
+  {% if member.user %}
+  <a href="{{ member.user }}" target="_blank" class="fab-icon">
+  <i class="fa fa-user" aria-hidden="true"></i>
+  </a>
+  {% endif %}
   {% if member.twitter %}
   <a href="{{ member.twitter }}" target="_blank" class="fab-icon">
     <i class="fab fa-twitter"></i>
@@ -157,11 +167,6 @@ sitemap: false
   {% if member.github %}
   <a href="{{ member.github }}" target="_blank" class="fab-icon">
   <i class="fab fa-github"></i>
-  </a>
-  {% endif %}
-  {% if member.user %}
-  <a href="{{ member.user }}" target="_blank" class="fab-icon">
-  <i class="fa fa-user" aria-hidden="true"></i>
   </a>
   {% endif %}
   </div>
@@ -244,6 +249,11 @@ sitemap: false
   <div class="team-info-header">
   <h4>{{ member.name }}</h4>
   <div class="social-icons">
+  {% if member.user %}
+  <a href="{{ member.user }}" target="_blank" class="fab-icon">
+  <i class="fa fa-user" aria-hidden="true"></i>
+  </a>
+  {% endif %}
   {% if member.twitter %}
   <a href="{{ member.twitter }}" target="_blank" class="fab-icon">
     <i class="fab fa-twitter"></i>
@@ -355,9 +365,14 @@ sitemap: false
   <div class="team-info-header">
   <h4>{{ member.name }}</h4>
   <div class="social-icons">
+  {% if member.user %}
+  <a href="{{ member.user }}" target="_blank" class="fab-icon">
+  <i class="fa fa-user" aria-hidden="true"></i>
+  </a>
+  {% endif %}
   {% if member.twitter %}
   <a href="{{ member.twitter }}" target="_blank" class="fab-icon">
-    <i class="fab fa-twitter"></i>
+  <i class="fab fa-twitter"></i>
   </a>
   {% endif %}
   {% if member.linkedin %}
