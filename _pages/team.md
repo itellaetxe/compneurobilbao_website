@@ -8,7 +8,7 @@ sitemap: false
 
 # Principal Investigators
 {% assign number_printed = 0 %}
-{% for member in site.data.phd %}
+{% for member in site.data.pi %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -99,7 +99,7 @@ sitemap: false
 
 # Postdocs
 {% assign number_printed = 0 %}
-{% for member in site.data.phd %}
+{% for member in site.data.postdoc %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
