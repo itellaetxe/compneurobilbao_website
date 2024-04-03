@@ -136,6 +136,11 @@ sitemap: false
     {% if member.number_educ >= 3 %}
     <li>{{ member.education3 }}</li>
     {% endif %}
+    {% if member.number_educ >= 4 %}
+    <li>{{ member.education4 }}</li>
+    {% endif %}    {% if member.number_educ >= 5 %}
+    <li>{{ member.education5 }}</li>
+    {% endif %}
     <!-- Add more education levels if necessary -->
   </ul>
   </div>
