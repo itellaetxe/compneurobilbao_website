@@ -8,7 +8,7 @@ sitemap: false
 
 # Principal Investigators
 {% assign number_printed = 0 %}
-{% for member in site.data.pi %}
+{% for member in site.data.phd %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -77,6 +77,7 @@ sitemap: false
   <li> {{ member.education4 }} </li>
   <li> {{ member.education5 }} </li>
   {% endif %}
+    <!-- Add more education levels if necessary -->
   </ul>
   </div>
 </div>
@@ -98,7 +99,7 @@ sitemap: false
 
 # Postdocs
 {% assign number_printed = 0 %}
-{% for member in site.data.postdoc %}
+{% for member in site.data.phd %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -167,6 +168,7 @@ sitemap: false
   <li> {{ member.education4 }} </li>
   <li> {{ member.education5 }} </li>
   {% endif %}
+    <!-- Add more education levels if necessary -->
   </ul>
   </div>
 </div>
