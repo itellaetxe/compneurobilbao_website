@@ -1,16 +1,18 @@
-- name: Jesus Cortes
+- name: Jesus M. Cortes
   photo: jesus.JPG
-  info: Full Professor, since 
-  email: milan.allan@gmail.com
+  info: Full Professor, since 2012
+  user: https://jesuscortes.info/
+  email: jesus.m.cortes@gmail.com
   twitter: https://twitter.com/_jesusmcortes
-  linkedin: https://www.linkedin.com/in/jesus-cortes-179718109/?originalSubdomain=es
-  google_scholar: https://scholar.google.es/citations?user=BIfo1BAAAAAJ&hl=en
+  linkedin: https://www.linkedin.com/in/jesus-cortes-179718109/ 
+  google scholar: https://scholar.google.es/citations?user=BIfo1BAAAAAJ&hl=en 
   number_educ: 5
-  education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
-  education2: PhD St Andrews (while at Cornell University) with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="http://davisgroup.lassp.cornell.edu/">JC Davis</a>
-  education3: Postdoc Cornell
-  education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with <a href="https://qudev.phys.ethz.ch">Andreas Wallraff</a>
-  education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
+  educacion 1: Degree in Physics (UGR),  MSc in Computer Scientific Applications (UGR), MSc in Physics & Mathematicas (<a href="https://www.ugr.es/~fisymat/master/index.html"> FisYMat </a>, UGR)
+  educacion2: PhD in Computational Physics. <a href="https://ic1.es/"> Institute Carlos I for Theoretical and Computational Physics </a>
+  educacion 3: <a href="https://www.snn.ru.nl/v2/aboutsnn.php"> Postdoctoral researcher </a>
+  educacion 3: <a href="https://cnl.salk.edu/"> Fulbright Postdoctoral researcher </a> 
+  educacion 4: <a href="https://web.inf.ed.ac.uk/anc"> Postdoctoral Researcher </a>
+  education 5: Ramon y Cajal Researcher. Computer Science and AI department <a href="https://decsai.ugr.es/"> (UGR) </a>
 
 - name: Paolo Bonifazi
   photo: paolo.JPG
