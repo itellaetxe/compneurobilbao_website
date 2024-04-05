@@ -60,11 +60,6 @@ Jump to [Principal Investigators](#principal-investigators),
   <i class="fab fa-github"></i>
   </a>
   {% endif %}
-  {% if member.user %}
-  <a href="{{ member.user }}" target="_blank" class="fab-icon">
-  <i class="fab fa-user"></i>
-  </a>
-  {% endif %}
   </div>
   </div>
   <p><i>{{ member.info }}</i></p>

@@ -6,7 +6,7 @@ excerpt: CompNeuro Lab -- Pictures
 ---
 
 # Pictures
-Jump to: [Group](#group), [Bilbao Brain Connectivity Workshop](#Bilbao_Brain_Connectivity_Workshop), [Conferences](#conferences), [NeuroTxoko Day](#NeuroTxoko_Day)
+Jump to: [Group](#group), [Bilbao Brain Connectivity Workshop](#bilbao_brain_connectivity_workshop), [Conferences](#conferences), [NeuroTxoko Day](#NeuroTxoko_Day)
 
 
 ## Group
