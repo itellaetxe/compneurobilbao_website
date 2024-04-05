@@ -17,14 +17,14 @@ Jump to: [Group](#group), [Bilbao Brain Connectivity Workshop](#Bilbao_Brain_Con
 
 ## Workshops
 ### Bilbao Brain Connectivity Workshop
-<img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/workshop.jpg" width="60%" >
+<img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/Workshop.JPG" width="60%" >
 #### Short video summarizing the workshop day 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nBB1Ah6tvwU?si=yzyyHJi_uswJnJMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ### 2023 DIPY
-<img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/DIPY.jpg" width="60%" >
+<img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/DIPY.JPG" width="60%" >
 
 ## Conferences
 ### Organization for Human Brain Mapping (OHBM) 2022
@@ -39,7 +39,7 @@ Jump to: [Group](#group), [Bilbao Brain Connectivity Workshop](#Bilbao_Brain_Con
 {% endif %}
 
 <div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/glasgow.jpg}" class="img-responsive" width="95%" style="float: left" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/glasgow.JPG}" class="img-responsive" width="95%" style="float: left" />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YimXs4zL4Cs?si=RHTmh7HoknfgRVSS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </div>
@@ -80,7 +80,7 @@ Jump to: [Group](#group), [Bilbao Brain Connectivity Workshop](#Bilbao_Brain_Con
 {% endif %}
 
 <div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/glasgow.jpg}" class="img-responsive" width="95%" style="float: left" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/glasgow.JPG}" class="img-responsive" width="95%" style="float: left" />
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4VrIX5HpacY?si=2qugljL9hCDabXyK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -112,10 +112,10 @@ Jump to: [Group](#group), [Bilbao Brain Connectivity Workshop](#Bilbao_Brain_Con
 
 
 ## NeuroTxoko Day
-<img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/neurotxoko.jpg" width="60%" >
+<img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/neurotxoko.JPG" width="60%" >
 
 #### Short video summarizing the Neurotxoko day 
-<video class="responsive-video" width="95%" style="float: left" controls>
+<video class="responsive-video" width="60%" height="60%" style="float: left" controls>
     <source src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/neurotxoko_video.mp4" type="video/mp4">
     Tu navegador no soporta la etiqueta de video.
 </video>
