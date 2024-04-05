@@ -1,1 +1,1 @@
-CompNeuro Bilbao Lab website: https://ifiriondo.github.io/BilbaoLab/ 
+CompNeuro Bilbao Lab Website: https://ifiriondo.github.io/BilbaoLab/ 
