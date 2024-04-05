@@ -15,13 +15,20 @@ Jump to: [Group](#group), [Bilbao Brain Connectivity Workshop](#Bilbao_Brain_Con
 </figure>
 
 
-## Bilbao Brain Connectivity Workshop
+## Workshops
+### Bilbao Brain Connectivity Workshop
+<img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/workshop.jpg" width="60%" >
 #### Short video summarizing the workshop day 
-<iframe width="560" height="315" src="https://youtu.be/nBB1Ah6tvwU?si=JPHPeh43LIbsBwDz" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nBB1Ah6tvwU?si=yzyyHJi_uswJnJMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+### 2023 DIPY
+<img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/DIPY.jpg" width="60%" >
 
 ## Conferences
 ### Organization for Human Brain Mapping (OHBM) 2022
-(Right-click *'view image'* to see a larger image.)
+(Right-click 'view image' to see a larger image.)
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures_Leiden %}
 
@@ -32,7 +39,9 @@ Jump to: [Group](#group), [Bilbao Brain Connectivity Workshop](#Bilbao_Brain_Con
 {% endif %}
 
 <div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/glasgow.jpg}" class="img-responsive" width="95%" style="float: left" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YimXs4zL4Cs?si=RHTmh7HoknfgRVSS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -59,9 +68,8 @@ Jump to: [Group](#group), [Bilbao Brain Connectivity Workshop](#Bilbao_Brain_Con
 
 <p> &nbsp; </p>
 
-### ISMRM Iberian Chapter Annual Meeting 2023
-
-(Right-click *'view image'* to see a larger image.)
+###  European Cooperation in Science and Technology Conference (COSTNET) 2019
+(Right-click 'view image' to see a larger image.)
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures_Leiden %}
 
@@ -72,7 +80,10 @@ Jump to: [Group](#group), [Bilbao Brain Connectivity Workshop](#Bilbao_Brain_Con
 {% endif %}
 
 <div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/glasgow.jpg}" class="img-responsive" width="95%" style="float: left" />
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4VrIX5HpacY?si=2qugljL9hCDabXyK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -98,7 +109,13 @@ Jump to: [Group](#group), [Bilbao Brain Connectivity Workshop](#Bilbao_Brain_Con
 {% endif %}
 
 <p> &nbsp; </p>
+
 
 ## NeuroTxoko Day
-<iframe width="560" height="315" src="https://photos.app.goo.gl/5L8GafQN4J7iuYLh9" frameborder="0" allowfullscreen></iframe>
+<img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/neurotxoko.jpg" width="60%" >
 
+#### Short video summarizing the Neurotxoko day 
+<video class="responsive-video" width="95%" style="float: left" controls>
+    <source src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/neurotxoko_video.mp4" type="video/mp4">
+    Tu navegador no soporta la etiqueta de video.
+</video>
