@@ -8,6 +8,7 @@ excerpt: CompNeuro Lab -- Pictures
 # Pictures
 Welcome to our picture gallery!
 Scroll through the page and match some of our best memories as a team!
+
 Jump to: [Group](#group), [Bilbao Brain Connectivity Workshop](#bilbao_brain_connectivity_workshop), [Conferences](#conferences), [NeuroTxoko Day](#neuroTxoko_day)
 
 
@@ -40,12 +41,10 @@ I need more info of what this was about etc.
 ## Conferences
 Highlight of the conferences the group has attended to together.
 ### Organization for Human Brain Mapping (OHBM) 2022
-<img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/glasgow.JPG}" class="img-responsive" width="95%" style="float: left" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/glasgow.JPG" class="img-responsive" width="95%" style="float: left" />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YimXs4zL4Cs?si=RHTmh7HoknfgRVSS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ###  European Cooperation in Science and Technology Conference (COSTNET) 2019
-
-<img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/glasgow.JPG}" class="img-responsive" width="95%" style="float: left" />
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4VrIX5HpacY?si=2qugljL9hCDabXyK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
