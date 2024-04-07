@@ -51,7 +51,7 @@ pubdesc {
 .container-fluid {
 	margin-right: auto;
 	margin-left: auto;
-	max-width: 950px; /* or 950px */
+	max-width: 1000px; /* or 950px */
 }
 
 .navbar-brand{
@@ -178,20 +178,19 @@ pubdesc {
     width: 100%;
     height: auto;
     margin-bottom: 30px;
-    border-radius: 0%;
 }
 
 @media (max-width: 768px) {
     #home-image img {
         width: 100%;
-        height: auto; /* O cualquier altura que desees */
+        height: 200px; /* O cualquier altura que desees */
     }
 }
 
 @media (min-width: 769px) and (max-width: 992px) {
     #home-image img {
         width: 100%;
-        height: auto; /* O cualquier altura que desees */
+        height: 300px; /* O cualquier altura que desees */
     }
 }
 
