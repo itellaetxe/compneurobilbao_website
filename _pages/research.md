@@ -9,10 +9,18 @@ sitemap: false
 # Research Lines
 
 ### Data-Driven Computational Neuroscience
+<div style="clear: both;">
+    <div style="float: left; width: 50%;">
+        <!-- Your existing image references here -->
+        <figure>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/data_driven.png" width="20%" >
+        </figure>
+    </div>
+    <div style="float: right; width: 50%;">
+        <!-- Insert the new text here -->
+    </div>
+</div>
 
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/data_driven.png" width="20%" >
-</figure>
 
 ### Applied Machine Learning for Computational Neuroscience
 
