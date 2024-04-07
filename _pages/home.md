@@ -7,7 +7,7 @@ layout: homelay
 ---
 
 <div markdown="0" id="home-image">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/home_brain_2.jpg" alt="CompNeuro Bilbao Lab" />
+    <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/home_brain.jpg" alt="CompNeuro Bilbao Lab" />
 </div>
 <h1 style="text-align:center">Welcome to the CompNeuro Lab</h1>
 
