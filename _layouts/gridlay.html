@@ -5,3 +5,12 @@ layout: default
 <div id="gridid" class="col-sm-12">
   {{ content }}
 </div>
+
+<!-- JavaScript to toggle the visibility of team member details -->
+<script type="text/javascript">
+  // Function to toggle the display of detailed information
+  function toggleDetails(memberId) {
+    var details = document.getElementById(memberId);
+    details.style.display = details.style.display === 'block' ? 'none' : 'block';
+  }
+</script>
