@@ -20,6 +20,7 @@ Jump to: [Data-Driven Computational Neuroscience](#data-driven-computational-neu
 </div>
 <div style="flex: 1; padding-left: 20px;"> <!-- This adds some space between the image and the text -->
 <p style="text-align: justify;">Data-driven computational neuroscience is an interdisciplinary field that applies quantitative data analysis and computational modeling techniques to understand the brain's structure and function. This approach leverages large datasets, like neural recordings, to unravel the complexities of neural systems.</p>
+<p style="text-align: justify;">**Team members working on this line:** </p>
 <p style="text-align: justify;">**Relevant works in the lab:** <a href="https://www.nature.com/articles/s41597-024-03060-2"> Jimenez-Marin, A et al. (2024) </a> </p>
 </div>
 </div>
@@ -35,6 +36,7 @@ Jump to: [Data-Driven Computational Neuroscience](#data-driven-computational-neu
 </div>
 <div style="flex: 1; padding-left: 20px;"> <!-- This adds some space between the image and the text -->
 <p style="text-align: justify;">Data-driven computational neuroscience is an interdisciplinary field that applies quantitative data analysis and computational modeling techniques to understand the brain's structure and function. This approach leverages large datasets, like neural recordings, to unravel the complexities of neural systems.</p>
+<p style="text-align: justify;">**Team members working on this line:** </p>
 <p style="text-align: justify;">**Relevant works in the lab:** <a href="https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/dad2.12493"> Garcia-Condado J. et al. (2023) </a> </p>
 </div>
 </div>
@@ -49,6 +51,7 @@ Jump to: [Data-Driven Computational Neuroscience](#data-driven-computational-neu
 </div>
 <div style="flex: 1; padding-left: 20px;"> <!-- This adds some space between the image and the text -->
 <p style="text-align: justify;">Data-driven computational neuroscience is an interdisciplinary field that applies quantitative data analysis and computational modeling techniques to understand the brain's structure and function. This approach leverages large datasets, like neural recordings, to unravel the complexities of neural systems.</p>
+<p style="text-align: justify;">**Team members working on this line:** </p>
 <p style="text-align: justify;">**Relevant works in the lab:** <a href="https://www.science.org/doi/abs/10.1126/science.1175509"> Bonifazi P. et al. (2009) </a> </p>
 </div>
 </div>
