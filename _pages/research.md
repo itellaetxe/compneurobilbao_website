@@ -9,17 +9,12 @@ sitemap: false
 # Research Lines
 
 ### Data-Driven Computational Neuroscience
-<div style="clear: both;">
-    <div style="float: left; width: 50%;">
-        <!-- Your existing image references here -->
-        <figure>
-            <img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/data_driven.png" width="20%" >
-        </figure>
-    </div>
-    <div style="float: right; width: 50%;">
-        <!-- Insert the new text here -->
-    </div>
-</div>
+<figure>
+    <img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/data_driven.PNG" width="20%" >
+</figure>
+
+<h6>Data-driven computational neuroscience is an interdisciplinary field that applies quantitative data analysis and computational modeling techniques to understand the brain's structure and function. This approach leverages large datasets, like neural recordings, to unravel the complexities of neural systems.</h6>
+
 
 
 ### Applied Machine Learning for Computational Neuroscience
