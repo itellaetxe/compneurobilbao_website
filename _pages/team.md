@@ -6,20 +6,12 @@ excerpt: 'CompNeuro Lab: Team members'
 sitemap: false
 ---
 
+<!-- JavaScript to toggle the visibility of team member details -->
 <script type="text/javascript">
-  // Función para alternar la visualización de la información detallada y cambiar el color del encabezado
-  function toggleDetails(detailsId, headerId) {
-    var details = document.getElementById(detailsId);
-    var header = document.getElementById(headerId);
-
-    // Comprobar si los detalles ya están visibles y cambiar el estilo del encabezado
-    if (details.style.display === 'block') {
-      details.style.display = 'none';
-      header.style.color = ''; // Volver al color original
-    } else {
-      details.style.display = 'block';
-      header.style.color = '#3498db'; // Cambiar al color deseado cuando se muestra la información
-    }
+  // Function to toggle the display of detailed information
+  function toggleDetails(memberId) {
+    var details = document.getElementById(memberId);
+    details.style.display = details.style.display === 'block' ? 'none' : 'block';
   }
 </script>
 
