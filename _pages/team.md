@@ -20,7 +20,7 @@ Meet the minds behind our research!
 Our dedicated team spans [Principal Investigators](#principal-investigators), [Postdoctoral Researchers](#postdocs), [PhD Students](#phd-students), [Bachelor and Master Students](#bachelor-and-master-students) , and [Esteemed Alumni](#alumni), all collaborating to advance the frontiers of computational neuroimaging.
 
 
-# Principal Investigators
+## Principal Investigators
 {% assign number_printed = 0 %}
 {% for member in site.data.pi %}
 
@@ -133,7 +133,7 @@ Our dedicated team spans [Principal Investigators](#principal-investigators), [P
 <!-- ... Further content ... -->
 
 
-# Postdocs
+## Postdocs
 {% assign number_printed = 0 %}
 {% for member in site.data.postdoc %}
 
@@ -246,7 +246,7 @@ Our dedicated team spans [Principal Investigators](#principal-investigators), [P
 <!-- ... Further content ... -->
 
 
-# PhD Students
+## PhD Students
 {% assign number_printed = 0 %}
 {% for member in site.data.phd %}
 
@@ -359,7 +359,7 @@ Our dedicated team spans [Principal Investigators](#principal-investigators), [P
 <!-- ... Further content ... -->
 
 
-# Bachelor and Master Students
+## Bachelor and Master Students
 
 {% assign number_printed = 0 %}
 {% for member in site.data.bachelor_master %}
@@ -473,7 +473,7 @@ Our dedicated team spans [Principal Investigators](#principal-investigators), [P
 <!-- ... Further content ... -->
 
 
-# Alumni
+## Alumni
 {% assign number_printed = 0 %}
 {% for member in site.data.previous_members %}
 
