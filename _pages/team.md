@@ -26,7 +26,7 @@ sitemap: false
 
 <div class="col-sm-12 clearfix">
   <div class="team-member">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" />
   </div>
   <div class="team-info">
   <div class="team-info-header">
