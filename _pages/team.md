@@ -142,7 +142,7 @@ sitemap: false
   </div>
   <div class="team-info">
   <div class="team-info-header">
-  <h4>{{ member.name }}</h4>
+  <h4 id="header-{{ member.name | slugify }}" onclick="toggleDetails('details-{{ member.name | slugify }}', 'header-{{ member.name | slugify }}')">{{ member.name }}</h4>  <div class="social-icons">
   <div class="social-icons">
   {% if member.user %}
   <a href="{{ member.user }}" target="_blank" class="fab-icon">
@@ -177,6 +177,7 @@ sitemap: false
   </div>
   </div>
   <p><i>{{ member.info }}</i></p>
+  <div id="details-{{ member.name | slugify }}" style="display: none;">
   <ul style="overflow: hidden">
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
@@ -219,6 +220,7 @@ sitemap: false
     <!-- Add more education levels if necessary -->
   </ul>
   </div>
+  </div>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -252,7 +254,7 @@ sitemap: false
   </div>
   <div class="team-info">
   <div class="team-info-header">
-  <h4>{{ member.name }}</h4>
+  <h4 id="header-{{ member.name | slugify }}" onclick="toggleDetails('details-{{ member.name | slugify }}', 'header-{{ member.name | slugify }}')">{{ member.name }}</h4>  <div class="social-icons">
   <div class="social-icons">
   {% if member.user %}
   <a href="{{ member.user }}" target="_blank" class="fab-icon">
@@ -292,6 +294,7 @@ sitemap: false
   </div>
   </div>
   <p><i>{{ member.info }}</i></p>
+  <div id="details-{{ member.name | slugify }}" style="display: none;">
   <ul style="overflow: hidden">
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
@@ -334,6 +337,7 @@ sitemap: false
     <!-- Add more education levels if necessary -->
   </ul>
   </div>
+  </div>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -368,7 +372,7 @@ sitemap: false
   </div>
   <div class="team-info">
   <div class="team-info-header">
-  <h4>{{ member.name }}</h4>
+  <h4 id="header-{{ member.name | slugify }}" onclick="toggleDetails('details-{{ member.name | slugify }}', 'header-{{ member.name | slugify }}')">{{ member.name }}</h4>  <div class="social-icons">
   <div class="social-icons">
   {% if member.user %}
   <a href="{{ member.user }}" target="_blank" class="fab-icon">
@@ -408,6 +412,7 @@ sitemap: false
   </div>
   </div>
   <p><i>{{ member.info }}</i></p>
+  <div id="details-{{ member.name | slugify }}" style="display: none;">
   <ul style="overflow: hidden">
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
@@ -449,6 +454,7 @@ sitemap: false
   {% endif %}
     <!-- Add more education levels if necessary -->
   </ul>
+  </div>
   </div>
 </div>
 
