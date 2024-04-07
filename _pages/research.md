@@ -9,10 +9,11 @@ sitemap: false
 # Research Lines
 
 ### Data-Driven Computational Neuroscience
+
 <div style="display: flex; align-items: flex-start;">
 <div style="flex: 0 0 20%;"><!-- Adjust the width as needed -->
 <figure>
-<img src="{{ 'images/researchpic/data_driven.png' | prepend: site.baseurl | prepend: site.url }}" alt="Data-Driven Computational Neuroscience" style="width: 100%;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/machine_learning.PNG"  style="width: 100%;">
 </figure>
 </div>
 <div style="flex: 1; padding-left: 20px;"> <!-- This adds some space between the image and the text -->
