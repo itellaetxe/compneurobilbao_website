@@ -483,7 +483,7 @@ Our dedicated team spans [Principal Investigators](#principal-investigators), [P
 <div class="row">
 {% endif %}
 
-<div class="col-sm-6 clearfix">
+<div class="col-sm-12 clearfix">
   <h4>{{ member.name }}</h4>
   <i>{{ member.duration }} <br> {{ member.info }}</i>
   <ul style="overflow: hidden"> </ul>
