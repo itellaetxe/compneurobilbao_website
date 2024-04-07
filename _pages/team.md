@@ -145,8 +145,8 @@ sitemap: false
   </div>
   <div class="team-info">
   <div class="team-info-header">
+  <!-- The name is now a clickable element that calls toggleDetails with the appropriate ID -->
   <h4 id="header-{{ member.name | slugify }}" onclick="toggleDetails('details-{{ member.name | slugify }}', 'header-{{ member.name | slugify }}')">{{ member.name }}</h4>  <div class="social-icons">
-  <div class="social-icons">
   {% if member.user %}
   <a href="{{ member.user }}" target="_blank" class="fab-icon">
   <i class="fa fa-user" aria-hidden="true"></i>
@@ -180,30 +180,27 @@ sitemap: false
   </div>
   </div>
   <p><i>{{ member.info }}</i></p>
+  <!-- The detailed information is initially hidden and has an ID that corresponds to the member's name -->
   <div id="details-{{ member.name | slugify }}" style="display: none;">
   <ul style="overflow: hidden">
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
   {% endif %}
-
   {% if member.number_educ == 2 %}
   <li> {{ member.education1 | markdownify}} </li>
   <li> {{ member.education2 | markdownify}} </li>
   {% endif %}
-
   {% if member.number_educ == 3 %}
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
   {% endif %}
-
   {% if member.number_educ == 4 %}
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
   <li> {{ member.education4 }} </li>
   {% endif %}
-
   {% if member.number_educ == 5 %}
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
@@ -211,7 +208,6 @@ sitemap: false
   <li> {{ member.education4 }} </li>
   <li> {{ member.education5 }} </li>
   {% endif %}
-
   {% if member.number_educ == 6 %}
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
@@ -239,9 +235,12 @@ sitemap: false
 </div>
 {% endif %}
 
+<div class="section-space"></div>
 <div class="section-space"></div> <!-- Espacio añadido aquí -->
 <div class="section-space"></div> <!-- Espacio añadido aquí -->
-<div class="section-space"></div> <!-- Espacio añadido aquí -->
+
+<!-- ... Further content ... -->
+
 
 # PhD Students
 {% assign number_printed = 0 %}
@@ -259,8 +258,8 @@ sitemap: false
   </div>
   <div class="team-info">
   <div class="team-info-header">
+  <!-- The name is now a clickable element that calls toggleDetails with the appropriate ID -->
   <h4 id="header-{{ member.name | slugify }}" onclick="toggleDetails('details-{{ member.name | slugify }}', 'header-{{ member.name | slugify }}')">{{ member.name }}</h4>  <div class="social-icons">
-  <div class="social-icons">
   {% if member.user %}
   <a href="{{ member.user }}" target="_blank" class="fab-icon">
   <i class="fa fa-user" aria-hidden="true"></i>
@@ -291,38 +290,30 @@ sitemap: false
   <i class="fab fa-github"></i>
   </a>
   {% endif %}
-  {% if member.user %}
-  <a href="{{ member.user }}" target="_blank" class="fa-icon">
-  <i class="fa fa-user"></i>
-  </a>
-  {% endif %}
   </div>
   </div>
   <p><i>{{ member.info }}</i></p>
+  <!-- The detailed information is initially hidden and has an ID that corresponds to the member's name -->
   <div id="details-{{ member.name | slugify }}" style="display: none;">
   <ul style="overflow: hidden">
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
   {% endif %}
-
   {% if member.number_educ == 2 %}
   <li> {{ member.education1 | markdownify}} </li>
   <li> {{ member.education2 | markdownify}} </li>
   {% endif %}
-
   {% if member.number_educ == 3 %}
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
   {% endif %}
-
   {% if member.number_educ == 4 %}
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
   <li> {{ member.education4 }} </li>
   {% endif %}
-
   {% if member.number_educ == 5 %}
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
@@ -330,7 +321,6 @@ sitemap: false
   <li> {{ member.education4 }} </li>
   <li> {{ member.education5 }} </li>
   {% endif %}
-
   {% if member.number_educ == 6 %}
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
@@ -358,9 +348,12 @@ sitemap: false
 </div>
 {% endif %}
 
+<div class="section-space"></div>
 <div class="section-space"></div> <!-- Espacio añadido aquí -->
 <div class="section-space"></div> <!-- Espacio añadido aquí -->
-<div class="section-space"></div> <!-- Espacio añadido aquí -->
+
+<!-- ... Further content ... -->
+
 
 # Bachelor and Master Students
 
@@ -379,8 +372,8 @@ sitemap: false
   </div>
   <div class="team-info">
   <div class="team-info-header">
+  <!-- The name is now a clickable element that calls toggleDetails with the appropriate ID -->
   <h4 id="header-{{ member.name | slugify }}" onclick="toggleDetails('details-{{ member.name | slugify }}', 'header-{{ member.name | slugify }}')">{{ member.name }}</h4>  <div class="social-icons">
-  <div class="social-icons">
   {% if member.user %}
   <a href="{{ member.user }}" target="_blank" class="fab-icon">
   <i class="fa fa-user" aria-hidden="true"></i>
@@ -388,22 +381,22 @@ sitemap: false
   {% endif %}
   {% if member.twitter %}
   <a href="{{ member.twitter }}" target="_blank" class="fab-icon">
-  <i class="fab fa-twitter"></i>
+    <i class="fab fa-twitter"></i>
   </a>
   {% endif %}
   {% if member.linkedin %}
   <a href="{{ member.linkedin }}" target="_blank" class="fab-icon">
-  <i class="fab fa-linkedin"></i>
+    <i class="fab fa-linkedin"></i>
   </a>
   {% endif %}
   {% if member.orcid %}
   <a href="{{ member.orcid }}" target="_blank" class="fab-icon">
-  <i class="fab fa-orcid"></i>
+    <i class="fab fa-orcid"></i>
   </a>
   {% endif %}
   {% if member.google_scholar %}
   <a href="{{ member.google_scholar }}" target="_blank" class="fab-icon">
-  <i class="fab fa-google"></i>
+    <i class="fab fa-google"></i>
   </a>
   {% endif %}
   {% if member.github %}
@@ -411,38 +404,30 @@ sitemap: false
   <i class="fab fa-github"></i>
   </a>
   {% endif %}
-  {% if member.user %}
-  <a href="{{ member.user }}" target="_blank" class="fab-icon">
-  <i class="fab fa-user"></i>
-  </a>
-  {% endif %}
   </div>
   </div>
   <p><i>{{ member.info }}</i></p>
+  <!-- The detailed information is initially hidden and has an ID that corresponds to the member's name -->
   <div id="details-{{ member.name | slugify }}" style="display: none;">
   <ul style="overflow: hidden">
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
   {% endif %}
-
   {% if member.number_educ == 2 %}
   <li> {{ member.education1 | markdownify}} </li>
   <li> {{ member.education2 | markdownify}} </li>
   {% endif %}
-
   {% if member.number_educ == 3 %}
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
   {% endif %}
-
   {% if member.number_educ == 4 %}
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
   <li> {{ member.education4 }} </li>
   {% endif %}
-
   {% if member.number_educ == 5 %}
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
@@ -450,7 +435,6 @@ sitemap: false
   <li> {{ member.education4 }} </li>
   <li> {{ member.education5 }} </li>
   {% endif %}
-
   {% if member.number_educ == 6 %}
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
@@ -478,9 +462,12 @@ sitemap: false
 </div>
 {% endif %}
 
+<div class="section-space"></div>
 <div class="section-space"></div> <!-- Espacio añadido aquí -->
 <div class="section-space"></div> <!-- Espacio añadido aquí -->
-<div class="section-space"></div> <!-- Espacio añadido aquí -->
+
+<!-- ... Further content ... -->
+
 
 # Previous Members
 {% assign number_printed = 0 %}
