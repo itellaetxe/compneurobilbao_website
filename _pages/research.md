@@ -18,6 +18,7 @@ sitemap: false
 </div>
 <div style="flex: 1; padding-left: 20px;"> <!-- This adds some space between the image and the text -->
 <p>Data-driven computational neuroscience is an interdisciplinary field that applies quantitative data analysis and computational modeling techniques to understand the brain's structure and function. This approach leverages large datasets, like neural recordings, to unravel the complexities of neural systems.</p>
+<p>**Relevant works in the lab:** <a href="https://www.nature.com/articles/s41597-024-03060-2"> Jimenez-Marin, A et al. (2024) </a> </p>
 </div>
 </div>
 
@@ -32,6 +33,7 @@ sitemap: false
 </div>
 <div style="flex: 1; padding-left: 20px;"> <!-- This adds some space between the image and the text -->
 <p>Data-driven computational neuroscience is an interdisciplinary field that applies quantitative data analysis and computational modeling techniques to understand the brain's structure and function. This approach leverages large datasets, like neural recordings, to unravel the complexities of neural systems.</p>
+<p>**Relevant works in the lab:** <a href="https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/dad2.12493"> Garcia-Condado J. et al. (2023) </a> </p>
 </div>
 </div>
 
