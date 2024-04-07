@@ -30,7 +30,7 @@ Our dedicated team spans [Principal Investigators](#principal-investigators), [P
 <div class="row">
 {% endif %}
 
-<div class="col-sm-12 clearfix">
+<div class="col-sm-6 clearfix">
   <div class="team-member">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" />
   </div>
@@ -143,7 +143,7 @@ Our dedicated team spans [Principal Investigators](#principal-investigators), [P
 <div class="row">
 {% endif %}
 
-<div class="col-sm-12 clearfix">
+<div class="col-sm-6 clearfix">
   <div class="team-member">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" />
   </div>
@@ -256,7 +256,7 @@ Our dedicated team spans [Principal Investigators](#principal-investigators), [P
 <div class="row">
 {% endif %}
 
-<div class="col-sm-12 clearfix">
+<div class="col-sm-6 clearfix">
   <div class="team-member">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" />
   </div>
@@ -370,7 +370,7 @@ Our dedicated team spans [Principal Investigators](#principal-investigators), [P
 <div class="row">
 {% endif %}
 
-<div class="col-sm-12 clearfix">
+<div class="col-sm-6 clearfix">
   <div class="team-member">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" />
   </div>
