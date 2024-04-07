@@ -1,7 +1,7 @@
 ---
 title: CompNeuro Lab - Pictures
 permalink: "/pictures/"
-layout: gridlay
+layout: piclay
 excerpt: CompNeuro Lab -- Pictures
 ---
 
