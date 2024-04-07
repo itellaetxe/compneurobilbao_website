@@ -17,9 +17,7 @@ Jump to: [Group](#group), [Workshops](#workshops), [Conferences](#conferences), 
 Principal investigators, young PhDs, doctoral students and master's students collaborating together. Physics, engineering, chemistry and much more. 
 Visit the Team page to learn more about us.</p>
 
-<figure style="text-align: center;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/home1.jpg" width="70%" >
-</figure>
 
 
 <div class="section-space"></div>
