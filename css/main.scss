@@ -51,7 +51,7 @@ pubdesc {
 .container-fluid {
 	margin-right: auto;
 	margin-left: auto;
-	max-width: 1000px; /* or 950px */
+	max-width: 950px; /* or 950px */
 }
 
 .navbar-brand{
@@ -178,6 +178,7 @@ pubdesc {
     width: 100%;
     height: auto;
     margin-bottom: 30px;
+    border-radius: 0%;
 }
 
 @media (max-width: 768px) {
