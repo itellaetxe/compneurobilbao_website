@@ -11,6 +11,7 @@ layout: homelay
 </div>
 
 
+<h1 style="text-align:center">Welcome to the Lab</h1>
 
 <figure class="fourth image-center">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_compneuro.png" style="width: 210px; margin: 20px;">
