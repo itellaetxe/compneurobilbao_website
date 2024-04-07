@@ -41,8 +41,7 @@ sitemap: false
   <div class="team-info">
   <div class="team-info-header">
   <!-- The name is now a clickable element that calls toggleDetails with the appropriate ID -->
-  <h4 onclick="toggleDetails('details-{{ member.name | slugify }}')">{{ member.name }}</h4>
-  <div class="social-icons">
+  <h4 id="header-{{ member.name | slugify }}" onclick="toggleDetails('details-{{ member.name | slugify }}', 'header-{{ member.name | slugify }}')">{{ member.name }}</h4>  <div class="social-icons">
   {% if member.user %}
   <a href="{{ member.user }}" target="_blank" class="fab-icon">
   <i class="fa fa-user" aria-hidden="true"></i>
