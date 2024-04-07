@@ -9,7 +9,7 @@ excerpt: CompNeuro Lab -- Pictures
 Welcome to our picture gallery!
 Scroll through the page and match some of our best memories as a team!
 
-Jump to: [Group](#group), [Bilbao Brain Connectivity Workshop](#bilbao_brain_connectivity_workshop), [Conferences](#conferences), [NeuroTxoko Day](#neuroTxoko_day)
+Jump to: [Group](#group), [Workshops](#workshops), [Conferences](#conferences), [NeuroTxoko Day](#neurotxoko_day)
 
 
 ## Group
