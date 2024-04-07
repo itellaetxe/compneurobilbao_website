@@ -9,8 +9,6 @@ layout: homelay
 <div markdown="0" id="home-image">
     <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/home_brain_2.jpg" alt="CompNeuro Bilbao Lab" />
 </div>
-
-
 <h1 style="text-align:center">Welcome to the Lab</h1>
 
 <figure class="fourth image-center">
