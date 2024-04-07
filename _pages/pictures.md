@@ -18,7 +18,7 @@ Principal investigators, young PhDs, doctoral students and master's students col
 Visit the Team page to learn more about us.</p>
 
 <figure style="text-align: center;">
-  <img src="{{ '/images/homepic/home1.jpg' | prepend: site.baseurl }}" alt="Descriptive text about the image" style="width: 70%;"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/home1.jpg" width="70%" >
 </figure>
 
 
