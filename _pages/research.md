@@ -8,8 +8,8 @@ sitemap: false
 
 # Research Lines
 
-## Data-Driven Computational Neuroscience
+### Data-Driven Computational Neuroscience
 
-## Applied Machine Learning for Computational Neuroscience
+### Applied Machine Learning for Computational Neuroscience
 
-## Preclinical Computational Neuroscience
+### Preclinical Computational Neuroscience
