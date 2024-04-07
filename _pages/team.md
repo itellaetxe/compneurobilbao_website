@@ -123,6 +123,9 @@ sitemap: false
 {% endif %}
 
 <div class="section-space"></div>
+<div class="section-space"></div> <!-- Espacio añadido aquí -->
+<div class="section-space"></div> <!-- Espacio añadido aquí -->
+
 <!-- ... Further content ... -->
 
 
@@ -236,6 +239,8 @@ sitemap: false
 </div>
 {% endif %}
 
+<div class="section-space"></div> <!-- Espacio añadido aquí -->
+<div class="section-space"></div> <!-- Espacio añadido aquí -->
 <div class="section-space"></div> <!-- Espacio añadido aquí -->
 
 # PhD Students
@@ -354,6 +359,8 @@ sitemap: false
 {% endif %}
 
 <div class="section-space"></div> <!-- Espacio añadido aquí -->
+<div class="section-space"></div> <!-- Espacio añadido aquí -->
+<div class="section-space"></div> <!-- Espacio añadido aquí -->
 
 # Bachelor and Master Students
 
@@ -471,6 +478,8 @@ sitemap: false
 </div>
 {% endif %}
 
+<div class="section-space"></div> <!-- Espacio añadido aquí -->
+<div class="section-space"></div> <!-- Espacio añadido aquí -->
 <div class="section-space"></div> <!-- Espacio añadido aquí -->
 
 # Previous Members
