@@ -45,6 +45,7 @@ Highlight of the conferences the group has attended to together.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YimXs4zL4Cs?si=RHTmh7HoknfgRVSS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ###  European Cooperation in Science and Technology Conference (COSTNET) 2019
+<img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/collage_costnet.jpg" class="img-responsive" width="100%" style="float: left" />
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4VrIX5HpacY?si=2qugljL9hCDabXyK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
