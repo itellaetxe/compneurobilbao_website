@@ -35,8 +35,6 @@ Recap of the lastest Workshops
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/Workshop.JPG" width="100%" >
 
-<div class="section-space"></div>
-
 #### Short video summarizing the workshop day 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nBB1Ah6tvwU?si=yzyyHJi_uswJnJMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -56,12 +54,10 @@ I need more info of what this was about etc.
 ## Conferences
 Highlight of the conferences the group has attended to together.
 
-<div class="section-space"></div>
-
-
 ### Organization for Human Brain Mapping (OHBM) 2022
 <img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/glasgow.JPG" class="img-responsive" width="100%" style="float: left" />
 
+<div class="section-space"></div>
 <div class="section-space"></div>
 
 #### Short video summarizing the trip
