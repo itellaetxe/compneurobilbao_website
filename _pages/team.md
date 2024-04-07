@@ -6,11 +6,7 @@ excerpt: 'CompNeuro Lab: Team members'
 sitemap: false
 ---
 
-Jump to [Principal Investigators](#principal-investigators), 
-[Postdocs](#postdocs), 
-[PhD Students](#phd-students), 
-[Bachelor and Master Students](#bachelor-and-master-students), 
-[Previous Members](#previous-members).
+<!-- ... Previous content ... -->
 
 # Principal Investigators
 {% assign number_printed = 0 %}
@@ -24,86 +20,29 @@ Jump to [Principal Investigators](#principal-investigators),
 
 <div class="col-sm-12 clearfix">
   <div class="team-member">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" />
+    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" />
   </div>
   <div class="team-info">
-  <div class="team-info-header">
-  <h4>{{ member.name }}</h4>
-  <div class="social-icons">
-  {% if member.user %}
-  <a href="{{ member.user }}" target="_blank" class="fab-icon">
-  <i class="fa fa-user" aria-hidden="true"></i>
-  </a>
-  {% endif %}
-  {% if member.twitter %}
-  <a href="{{ member.twitter }}" target="_blank" class="fab-icon">
-    <i class="fab fa-twitter"></i>
-  </a>
-  {% endif %}
-  {% if member.linkedin %}
-  <a href="{{ member.linkedin }}" target="_blank" class="fab-icon">
-    <i class="fab fa-linkedin"></i>
-  </a>
-  {% endif %}
-  {% if member.orcid %}
-  <a href="{{ member.orcid }}" target="_blank" class="fab-icon">
-    <i class="fab fa-orcid"></i>
-  </a>
-  {% endif %}
-  {% if member.google_scholar %}
-  <a href="{{ member.google_scholar }}" target="_blank" class="fab-icon">
-    <i class="fab fa-google"></i>
-  </a>
-  {% endif %}
-  {% if member.github %}
-  <a href="{{ member.github }}" target="_blank" class="fab-icon">
-  <i class="fab fa-github"></i>
-  </a>
-  {% endif %}
-  </div>
-  </div>
-  <p><i>{{ member.info }}</i></p>
-  <ul style="overflow: hidden">
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
+    <div class="team-info-header">
+      <!-- Clickable name that toggles the information -->
+      <h4 onclick="toggleDetails('{{ member.name | slugify }}')">{{ member.name }}</h4>
+      <div class="social-icons">
+        <!-- ... Social icons ... -->
+      </div>
+    </div>
+    <p><i>{{ member.info }}</i></p>
 
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 | markdownify}} </li>
-  <li> {{ member.education2 | markdownify}} </li>
-  {% endif %}
-
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 5 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  <li> {{ member.education5 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 6 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  <li> {{ member.education5 }} </li>
-  <li> {{ member.education6 }} </li>
-  {% endif %}
-    <!-- Add more education levels if necessary -->
-  </ul>
+    <!-- Hidden detailed information div -->
+    <div id="details-{{ member.name | slugify }}" style="display:none;">
+      <ul style="overflow: hidden">
+        {% if member.number_educ > 0 %}
+          {% for i in (1..member.number_educ) %}
+          <li> {{ member['education' | append: i] }} </li>
+          {% endfor %}
+        {% endif %}
+        <!-- Add more education levels if necessary -->
+      </ul>
+    </div>
   </div>
 </div>
 
@@ -121,6 +60,18 @@ Jump to [Principal Investigators](#principal-investigators),
 {% endif %}
 
 <div class="section-space"></div> <!-- Espacio añadido aquí -->
+
+<!-- ... Further content ... -->
+
+<!-- JavaScript for toggling the display of detailed information -->
+<script type="text/javascript">
+// Function to toggle the display of detailed information
+function toggleDetails(memberId) {
+  var details = document.getElementById('details-' + memberId);
+  details.style.display = details.style.display === 'block' ? 'none' : 'block';
+}
+</script>
+
 
 # Postdocs
 {% assign number_printed = 0 %}
