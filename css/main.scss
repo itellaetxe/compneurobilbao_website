@@ -203,3 +203,10 @@ pubdesc {
 .section-space {
     margin-top: 100px; /* O ajusta según tus necesidades */
 }
+
+/* Estilo para cambiar el color al pasar el cursor */
+.team-info-header h4:hover {
+    color: #3498db; /* Cambia a tu color preferido */
+    cursor: pointer; /* Cambia el cursor a una mano */
+  }
+  
