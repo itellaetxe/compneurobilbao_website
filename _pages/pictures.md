@@ -13,9 +13,9 @@ Jump to: [Group](#group), [Workshops](#workshops), [Conferences](#conferences), 
 
 
 ## Group
-Welcome to our team of fusion researchers! 
+<p style="text-align: justify;">Welcome to our team of fusion researchers! 
 Principal investigators, young PhDs, doctoral students and master's students collaborating together. Physics, engineering, chemistry and much more. 
-Visit the Team page to learn more about us.
+Visit the Team page to learn more about us.</p>
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/home1.jpg" width="70%" >
@@ -30,8 +30,8 @@ Recap of the lastest Workshops
 
 
 ### Bilbao Brain Connectivity Workshop (BCW) 2023
-Brain Connectivity Workshop (BCW) is an annual international meeting for in-depth discussions of all aspects of brain connectivity research. By bringing together experts in computational neuroscience, neuroscience methodology and experimental neuroscience, it aims to improve the understanding of the relationship between anatomical connectivity, brain dynamics and cognitive function.
-See bellow same images from that day.
+<p style="text-align: justify;">Brain Connectivity Workshop (BCW) is an annual international meeting for in-depth discussions of all aspects of brain connectivity research. By bringing together experts in computational neuroscience, neuroscience methodology and experimental neuroscience, it aims to improve the understanding of the relationship between anatomical connectivity, brain dynamics and cognitive function. See bellow same images from that day.</p>
+
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/Workshop.JPG" width="100%" >
 
@@ -79,7 +79,7 @@ Highlight of the conferences the group has attended to together.
 <div class="section-space"></div>
 
 ## NeuroTxoko Day
-Neurotxoko is a day in which all members of the team (and more guests) are invited to a space where we have fun through all the day, having lunch togetehr, singing in the karaoke, cooking and so much more!
+<p style="text-align: justify;">Neurotxoko is a day in which all members of the team (and more guests) are invited to a space where we have fun through all the day, having lunch togetehr, singing in the karaoke, cooking and so much more!</p>
 <img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/neurotxoko.JPG" width="100%" >
 
 <div class="section-space"></div>
