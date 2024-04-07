@@ -44,8 +44,11 @@
 
 - name: Unai Sainz
   photo: unai.jpg
-  info: PhD student, since
-  email: h.s.m.van.bohemen@physics.leidenuniv.nl
-  number_educ: 1
-  education1: Leidse Instrumentmakers School
-  education2:
+  info: PhD student, since 2024
+  email: unai.sainz.bc@gmail.com
+  linkedin: https://www.linkedin.com/in/unai-sainz-lugarezaresti/
+  google_scholar: https://scholar.google.es/citations?user=bZ6LubkAAAAJ&hl=es
+  number_educ: 3
+  education1: MSc in Computing and Intelligent Systems
+  education2: BSc in Industrial electronics and automation engineering
+  education3: Bsc in computer engineering
