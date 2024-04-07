@@ -18,7 +18,6 @@ sitemap: false
 # Team Members
 Meet the minds behind our research! Our dedicated team spans [Principal Investigators](#principal-investigators), [Postdoctoral Researchers](#postdocs), [PhD Students](#phd-students), [Bachelor and Master Students](#bachelor-and-master-students) , and [Esteemed Alumni](#alumni), all collaborating to advance the frontiers of computational neuroimaging."
 
-Jump to: [Group](#group), [Workshops](#workshops), [Conferences](#conferences), [NeuroTxoko Day](#neurotxoko-day)
 
 # Principal Investigators
 {% assign number_printed = 0 %}
