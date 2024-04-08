@@ -22,21 +22,22 @@
 
 - name: Jorge Garcia
   photo: jorge.JPG
-  info: PhD Student, since 
-  email: b
-  linkedin: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi_-OaWk_eEAxXMhf0HHXVqB0wQFnoECBYQAQ&url=https%3A%2F%2Fes.linkedin.com%2Fin%2Fjorge-garcia-condado&usg=AOvVaw0jga4Tig9ppi3bPZIp9D2L&opi=89978449
-  twitter: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi_-OaWk_eEAxXMhf0HHXVqB0wQFnoECBAQAQ&url=https%3A%2F%2Ftwitter.com%2Fjgarciacondado%3Flang%3Des&usg=AOvVaw0h013vxo0wdIlUkAxknIe_&opi=89978449
-  google_scholar: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi_-OaWk_eEAxXMhf0HHXVqB0wQFnoECB4QAQ&url=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3D533sDjUAAAAJ%26hl%3Den&usg=AOvVaw1i--nx8dl6HHescHDnMNGI&opi=89978449
-  number_educ: 2
-  education1: Master Applied Physics, TU Delft
-  education2: Casimir/Nanofront PhD fellowship
-  education3:
-  education4:
+  info: PhD Student, since 2021 
+  email: jorgegarciacondado@gmail.com
+  orcid: https://orcid.org/my-orcid?orcid=0000-0002-9463-1924
+  linkedin: https://www.linkedin.com/in/jorge-garcia-condado/
+  twitter: https://twitter.com/JGarciaCondado 
+  google_scholar: https://scholar.google.com/citations?user=533sDjUAAAAJ&hl=en
+  education1: MEng in Information and Computer Engineering and Bioengineering, University of Cambridge
+  education2: MSc in Machine Learning for Health, Universidad Carlos III de Madrid
+  education3: BA in Information and Computer Engineering and Bioengineering, University of Cambridge
+
 
 - name: Iñigo Tellaetxe Elorriaga
   photo: iñigo.JPG
   info: PhD Student, since 2023
   email: inigotellaetxe@gmail.com
+  orcid: https://orcid.org/0009-0001-1832-5183
   linkedin: https://www.linkedin.com/in/itellaetxeelorriaga/
   number_educ: 2
   education1: MSc Biomedical Technologies in Mondragon Unibertsitatea
