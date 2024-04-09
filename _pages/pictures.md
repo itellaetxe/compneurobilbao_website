@@ -94,8 +94,9 @@ Highlight of the conferences the group has attended to together.
 <div class="section-space"></div>
 
 #### Short video summarizing the Neurotxoko day 
-<figure style="text-align: center;">
+
 <video class="responsive-video" width="35%" style="float: left" controls>
     <source src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/neurotxoko_video.mp4" type="video/mp4">
     Tu navegador no soporta la etiqueta de video.
 </video>
+<figure style="text-align: center;">
