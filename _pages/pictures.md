@@ -84,7 +84,7 @@ Highlight of the conferences the group has attended to together.
 ## NeuroTxoko Day
 <p style="text-align: justify;">Neurotxoko is a day in which all members of the team (and more guests) are invited to a space where we have fun through all the day, having lunch together, singing in the karaoke, cooking and so much more!</p>
 <figure style="text-align: center;">
-<img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/neurotxoko.JPG" width="100%" >
+<img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/neurotxoko_1.jpg" width="100%" >
 
 <div class="section-space"></div>
 
