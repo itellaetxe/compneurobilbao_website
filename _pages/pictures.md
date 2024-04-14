@@ -42,7 +42,7 @@ Recap of the lastest Workshops
 ### DIPY 2023
 I need more info of what this was about etc.
 <figure style="text-align: center;">
-<img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/DIPY_1.jpg" width="100%" >
+<img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/DIPY_1.jpg" width="100%" height="60%">
 
 <div class="section-space"></div>
 <div class="section-space"></div>
