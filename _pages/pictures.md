@@ -53,7 +53,7 @@ Highlight of the conferences the group has attended to together.
 
 ### Organization for Human Brain Mapping (OHBM) 2022
 <figure style="text-align: center;">
-<img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/glasgow.JPG" class="img-responsive" width="100%" style="float: left" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/glasgow_1.jpg" class="img-responsive" width="100%" style="float: left" />
 
 <div class="section-space"></div>
 <div class="section-space"></div>
