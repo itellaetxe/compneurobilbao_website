@@ -21,11 +21,6 @@ Visit the Team page to learn more about us.</p>
 <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/home1.jpg" width="70%" >
 </figure>
 
-
-<div class="section-space"></div>
-<div class="section-space"></div> <!-- Espacio añadido aquí -->
-<div class="section-space"></div> <!-- Espacio añadido aquí -->
-
 ## Workshops
 Recap of the lastest Workshops
 
@@ -33,11 +28,11 @@ Recap of the lastest Workshops
 ### Bilbao Brain Connectivity Workshop (BCW) 2023
 <p style="text-align: justify;">Brain Connectivity Workshop (BCW) is an annual international meeting for in-depth discussions of all aspects of brain connectivity research. By bringing together experts in computational neuroscience, neuroscience methodology and experimental neuroscience, it aims to improve the understanding of the relationship between anatomical connectivity, brain dynamics and cognitive function. See bellow same images from that day.</p>
 
-
+<figure style="text-align: center;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/Workshop.JPG" width="100%" >
 
 #### Short video summarizing the workshop day 
-
+<figure style="text-align: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nBB1Ah6tvwU?si=yzyyHJi_uswJnJMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <div class="section-space"></div>
@@ -46,6 +41,7 @@ Recap of the lastest Workshops
 
 ### DIPY 2023
 I need more info of what this was about etc.
+<figure style="text-align: center;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/DIPY.JPG" width="100%" >
 
 <div class="section-space"></div>
@@ -56,25 +52,29 @@ I need more info of what this was about etc.
 Highlight of the conferences the group has attended to together.
 
 ### Organization for Human Brain Mapping (OHBM) 2022
+<figure style="text-align: center;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/glasgow.JPG" class="img-responsive" width="100%" style="float: left" />
 
 <div class="section-space"></div>
 <div class="section-space"></div>
+<div class="section-space"></div>
 
 #### Short video summarizing the trip
-
+<figure style="text-align: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YimXs4zL4Cs?si=RHTmh7HoknfgRVSS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <div class="section-space"></div>
 <div class="section-space"></div>
 
 ###  European Cooperation in Science and Technology Conference (COSTNET) 2019
+<figure style="text-align: center;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/collage_costnet.jpg" class="img-responsive" width="100%" style="float: left" />
 
 <div class="section-space"></div>
+<div class="section-space"></div>
 
-#### Short video 
-
+#### Short video summarizing the trip
+<figure style="text-align: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4VrIX5HpacY?si=2qugljL9hCDabXyK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <div class="section-space"></div>
@@ -82,13 +82,16 @@ Highlight of the conferences the group has attended to together.
 <div class="section-space"></div>
 
 ## NeuroTxoko Day
-<p style="text-align: justify;">Neurotxoko is a day in which all members of the team (and more guests) are invited to a space where we have fun through all the day, having lunch togetehr, singing in the karaoke, cooking and so much more!</p>
+<p style="text-align: justify;">Neurotxoko is a day in which all members of the team (and more guests) are invited to a space where we have fun through all the day, having lunch together, singing in the karaoke, cooking and so much more!</p>
+<figure style="text-align: center;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/neurotxoko.JPG" width="100%" >
 
 <div class="section-space"></div>
 
 #### Short video summarizing the Neurotxoko day 
+
 <video class="responsive-video" width="35%" style="float: left" controls>
     <source src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/neurotxoko_video.mp4" type="video/mp4">
     Tu navegador no soporta la etiqueta de video.
 </video>
+<figure style="text-align: center;">
