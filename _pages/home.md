@@ -1,5 +1,5 @@
 ---
-title: CompNeuro Lab - Home
+title: CompNeuro Lab - Homejj
 permalink: "/"
 excerpt: CompNeuro Lab at IIS Biobizkaia
 sitemap: false
