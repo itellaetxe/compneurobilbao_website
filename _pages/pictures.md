@@ -21,6 +21,9 @@ Visit the Team page to learn more about us.</p>
 <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/home1.jpg" width="70%" >
 </figure>
 
+&nbsp;
+&nbsp;
+
 ## Workshops
 Recap of the lastest Workshops
 
@@ -30,23 +33,23 @@ Recap of the lastest Workshops
 
 <figure style="text-align: center;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/Workshop_1.jpg" width="100%" >
+</figure>
 
-#### Short video summarizing the workshop day 
+&nbsp;
+
+<h4 style="text-align: center;">Short video summarizing the workshop day</h4>
+
 <figure style="text-align: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nBB1Ah6tvwU?si=yzyyHJi_uswJnJMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</figure>
 
-<div class="section-space"></div>
-<div class="section-space"></div>
+&nbsp;
 
-
-### DIPY 2023
-I need more info of what this was about etc.
-<figure style="text-align: center;">
+### Diffusion Imaging in PYthon (DIPY) 2023
+The DIPY Workshop is an event focused on neuroimaging and medical analysis using Python, specifically targeting diffusion magnetic resonance imaging (dMRI) analysis. This workshop provides hands-on tutorials and lectures on various topics including modeling, segmentation, and bundle analytics. The event draws speakers and participants from the field of computational neuroanatomy and encourages the exchange of knowledge and ideas among academic, clinical, and industrial attendees.
+<figure style="text-align: center; margin-bottom: 70px;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/DIPY_1.jpg" width="100%">
-
-<div class="section-space"></div>
-<div class="section-space"></div>
-<div class="section-space"></div>
+</figure>
 
 ## Conferences
 Highlight of the conferences the group has attended to together.
@@ -54,44 +57,45 @@ Highlight of the conferences the group has attended to together.
 ### Organization for Human Brain Mapping (OHBM) 2022
 <figure style="text-align: center;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/glasgow_1.jpg" class="img-responsive" width="100%" style="float: left" />
+</figure>
 
-<div class="section-space"></div>
-<div class="section-space"></div>
-<div class="section-space"></div>
+&nbsp;
 
-#### Short video summarizing the trip
+<h4 style="text-align: center;">Short video summarizing the trip</h4>
+
 <figure style="text-align: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YimXs4zL4Cs?si=RHTmh7HoknfgRVSS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</figure>
 
-<div class="section-space"></div>
-<div class="section-space"></div>
+&nbsp;
 
 ###  European Cooperation in Science and Technology Conference (COSTNET) 2019
-<figure style="text-align: center;">
+<figure style="text-align: center; margin-bottom: 60px;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/collage_costnet.jpg" class="img-responsive" width="100%" style="float: left" />
+</figure>
 
-<div class="section-space"></div>
-<div class="section-space"></div>
+&nbsp;
 
-#### Short video summarizing the trip
-<figure style="text-align: center;">
+<h4 style="text-align: center;">Short video summarizing the trip</h4>
+
+<figure style="text-align: center; margin-bottom: 60px;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4VrIX5HpacY?si=2qugljL9hCDabXyK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</figure>
 
-<div class="section-space"></div>
-<div class="section-space"></div>
-<div class="section-space"></div>
 
 ## NeuroTxoko Day
 <p style="text-align: justify;">Neurotxoko is a day in which all members of the team (and more guests) are invited to a space where we have fun through all the day, having lunch together, singing in the karaoke, cooking and so much more!</p>
 <figure style="text-align: center;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/neurotxoko_1.jpg" width="100%" >
+</figure>
 
-<div class="section-space"></div>
+&nbsp;
 
-#### Short video summarizing the Neurotxoko day 
+<h4 style="text-align: center;">Short video summarizing the Neurotxoko day</h4>
 
-<video class="responsive-video" width="35%" style="float: left" controls>
+<figure style="text-align: center; display: flex; justify-content: center;">
+<video class="responsive-video" width="25%" style="float: left" controls>
     <source src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/neurotxoko_video.mp4" type="video/mp4">
     Tu navegador no soporta la etiqueta de video.
 </video>
-<figure style="text-align: center;">
+</figure>
