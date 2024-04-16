@@ -17,9 +17,12 @@ Jump to: [Group](#group), [Workshops](#workshops), [Conferences](#conferences), 
 Principal investigators, young PhDs, doctoral students and master's students collaborating together. Physics, engineering, chemistry and much more. 
 Visit the Team page to learn more about us.</p>
 
-<figure style="text-align: center; margin-bottom: 60px;">
+<figure style="text-align: center;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/home1.jpg" width="70%" >
 </figure>
+
+&nbsp;
+&nbsp;
 
 ## Workshops
 Recap of the lastest Workshops
@@ -28,16 +31,19 @@ Recap of the lastest Workshops
 ### Bilbao Brain Connectivity Workshop (BCW) 2023
 <p style="text-align: justify;">Brain Connectivity Workshop (BCW) is an annual international meeting for in-depth discussions of all aspects of brain connectivity research. By bringing together experts in computational neuroscience, neuroscience methodology and experimental neuroscience, it aims to improve the understanding of the relationship between anatomical connectivity, brain dynamics and cognitive function. See bellow same images from that day.</p>
 
-<figure style="text-align: center; margin-bottom: 60px;">
+<figure style="text-align: center;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/Workshop_1.jpg" width="100%" >
 </figure>
 
+&nbsp;
+
 <h4 style="text-align: center;">Short video summarizing the workshop day</h4>
 
-<figure style="text-align: center; margin-bottom: 40px;">
+<figure style="text-align: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nBB1Ah6tvwU?si=yzyyHJi_uswJnJMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </figure>
 
+&nbsp;
 
 ### DIPY 2023
 I need more info of what this was about etc.
@@ -49,9 +55,11 @@ I need more info of what this was about etc.
 Highlight of the conferences the group has attended to together.
 
 ### Organization for Human Brain Mapping (OHBM) 2022
-<figure style="text-align: center; margin-bottom: 60px;">
+<figure style="text-align: center;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/glasgow_1.jpg" class="img-responsive" width="100%" style="float: left" />
 </figure>
+
+&nbsp;
 
 <h4 style="text-align: center;">Short video summarizing the trip</h4>
 
@@ -75,14 +83,16 @@ Highlight of the conferences the group has attended to together.
 
 ## NeuroTxoko Day
 <p style="text-align: justify;">Neurotxoko is a day in which all members of the team (and more guests) are invited to a space where we have fun through all the day, having lunch together, singing in the karaoke, cooking and so much more!</p>
-<figure style="text-align: center; margin-bottom: 60px;">
+<figure style="text-align: center;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/neurotxoko_1.jpg" width="100%" >
 </figure>
+
+&nbsp;
 
 <h4 style="text-align: center;">Short video summarizing the Neurotxoko day</h4>
 
 <figure style="text-align: center; display: flex; justify-content: center;">
-<video class="responsive-video" width="35%" style="float: left" controls>
+<video class="responsive-video" width="25%" style="float: left" controls>
     <source src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/neurotxoko_video.mp4" type="video/mp4">
     Tu navegador no soporta la etiqueta de video.
 </video>
