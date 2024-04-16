@@ -45,8 +45,8 @@ Recap of the lastest Workshops
 
 &nbsp;
 
-### DIPY 2023
-I need more info of what this was about etc.
+### Diffusion Imaging in PYthon (DIPY) 2023
+The DIPY Workshop is an event focused on neuroimaging and medical analysis using Python, specifically targeting diffusion magnetic resonance imaging (dMRI) analysis. This workshop provides hands-on tutorials and lectures on various topics including modeling, segmentation, and bundle analytics. The event draws speakers and participants from the field of computational neuroanatomy and encourages the exchange of knowledge and ideas among academic, clinical, and industrial attendees.
 <figure style="text-align: center; margin-bottom: 70px;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/DIPY_1.jpg" width="100%">
 </figure>
@@ -66,6 +66,8 @@ Highlight of the conferences the group has attended to together.
 <figure style="text-align: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YimXs4zL4Cs?si=RHTmh7HoknfgRVSS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </figure>
+
+&nbsp;
 
 ###  European Cooperation in Science and Technology Conference (COSTNET) 2019
 <figure style="text-align: center; margin-bottom: 60px;">
