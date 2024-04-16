@@ -1,5 +1,5 @@
 ---
-title: CompNeuro Lab - Homejj
+title: CompNeuro Lab - Home
 permalink: "/"
 excerpt: CompNeuro Lab at IIS Biobizkaia
 sitemap: false
@@ -9,7 +9,7 @@ layout: homelay
 <div markdown="0" id="home-image">
     <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/home_brain_3.jpg" alt="CompNeuro Bilbao Lab" />
 </div>
-<h1 style="text-align:center">Welcome to the CompNeuro Lab</h1>
+<h1 style="text-align:center">Welcome to the CompNeuro Labnnnn</h1>
 
 <figure class="fourth image-center">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_compneuro.png" style="width: 210px; margin: 20px;">
