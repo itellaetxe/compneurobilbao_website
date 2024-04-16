@@ -35,18 +35,11 @@ Recap of the lastest Workshops
 <figure style="text-align: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nBB1Ah6tvwU?si=yzyyHJi_uswJnJMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<div class="section-space"></div>
-<div class="section-space"></div>
-
 
 ### DIPY 2023
 I need more info of what this was about etc.
 <figure style="text-align: center;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/DIPY_1.jpg" width="100%">
-
-<div class="section-space"></div>
-<div class="section-space"></div>
-<div class="section-space"></div>
 
 ## Conferences
 Highlight of the conferences the group has attended to together.
@@ -55,30 +48,19 @@ Highlight of the conferences the group has attended to together.
 <figure style="text-align: center;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/glasgow_1.jpg" class="img-responsive" width="100%" style="float: left" />
 
-<div class="section-space"></div>
-<div class="section-space"></div>
-<div class="section-space"></div>
 
 #### Short video summarizing the trip
 <figure style="text-align: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YimXs4zL4Cs?si=RHTmh7HoknfgRVSS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<div class="section-space"></div>
-<div class="section-space"></div>
-
 ###  European Cooperation in Science and Technology Conference (COSTNET) 2019
 <figure style="text-align: center;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/collage_costnet.jpg" class="img-responsive" width="100%" style="float: left" />
-
-<div class="section-space"></div>
-<div class="section-space"></div>
 
 #### Short video summarizing the trip
 <figure style="text-align: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4VrIX5HpacY?si=2qugljL9hCDabXyK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<div class="section-space"></div>
-<div class="section-space"></div>
 <div class="section-space"></div>
 
 ## NeuroTxoko Day
