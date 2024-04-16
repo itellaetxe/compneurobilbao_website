@@ -28,7 +28,7 @@ Recap of the lastest Workshops
 ### Bilbao Brain Connectivity Workshop (BCW) 2023
 <p style="text-align: justify;">Brain Connectivity Workshop (BCW) is an annual international meeting for in-depth discussions of all aspects of brain connectivity research. By bringing together experts in computational neuroscience, neuroscience methodology and experimental neuroscience, it aims to improve the understanding of the relationship between anatomical connectivity, brain dynamics and cognitive function. See bellow same images from that day.</p>
 
-<figure style="text-align: center;">
+<figure style="text-align: center;margin-bottom: 20px;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/Workshop_1.jpg" width="100%" >
 
 #### Short video summarizing the workshop day 
