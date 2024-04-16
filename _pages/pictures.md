@@ -17,7 +17,7 @@ Jump to: [Group](#group), [Workshops](#workshops), [Conferences](#conferences), 
 Principal investigators, young PhDs, doctoral students and master's students collaborating together. Physics, engineering, chemistry and much more. 
 Visit the Team page to learn more about us.</p>
 
-<figure style="text-align: center;">
+<figure style="text-align: center; margin-bottom: 100px;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/home1.jpg" width="70%" >
 </figure>
 
@@ -28,7 +28,7 @@ Recap of the lastest Workshops
 ### Bilbao Brain Connectivity Workshop (BCW) 2023
 <p style="text-align: justify;">Brain Connectivity Workshop (BCW) is an annual international meeting for in-depth discussions of all aspects of brain connectivity research. By bringing together experts in computational neuroscience, neuroscience methodology and experimental neuroscience, it aims to improve the understanding of the relationship between anatomical connectivity, brain dynamics and cognitive function. See bellow same images from that day.</p>
 
-<figure style="text-align: center;margin-bottom: 20px;">
+<figure style="text-align: center; margin-bottom: 100px;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/Workshop_1.jpg" width="100%" >
 
 #### Short video summarizing the workshop day 
@@ -45,7 +45,7 @@ I need more info of what this was about etc.
 Highlight of the conferences the group has attended to together.
 
 ### Organization for Human Brain Mapping (OHBM) 2022
-<figure style="text-align: center;">
+<figure style="text-align: center; margin-bottom: 100px;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/glasgow_1.jpg" class="img-responsive" width="100%" style="float: left" />
 
 
@@ -54,7 +54,7 @@ Highlight of the conferences the group has attended to together.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YimXs4zL4Cs?si=RHTmh7HoknfgRVSS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ###  European Cooperation in Science and Technology Conference (COSTNET) 2019
-<figure style="text-align: center;">
+<figure style="text-align: center; margin-bottom: 100px;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/collage_costnet.jpg" class="img-responsive" width="100%" style="float: left" />
 
 #### Short video summarizing the trip
@@ -65,7 +65,7 @@ Highlight of the conferences the group has attended to together.
 
 ## NeuroTxoko Day
 <p style="text-align: justify;">Neurotxoko is a day in which all members of the team (and more guests) are invited to a space where we have fun through all the day, having lunch together, singing in the karaoke, cooking and so much more!</p>
-<figure style="text-align: center;">
+<figure style="text-align: center; margin-bottom: 100px;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/neurotxoko_1.jpg" width="100%" >
 
 #### Short video summarizing the Neurotxoko day 
