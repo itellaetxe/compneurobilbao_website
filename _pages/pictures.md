@@ -30,16 +30,19 @@ Recap of the lastest Workshops
 
 <figure style="text-align: center; margin-bottom: 100px;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/Workshop_1.jpg" width="100%" >
+</figure>
 
 #### Short video summarizing the workshop day 
 <figure style="text-align: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nBB1Ah6tvwU?si=yzyyHJi_uswJnJMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</figure>
 
 
 ### DIPY 2023
 I need more info of what this was about etc.
 <figure style="text-align: center;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/DIPY_1.jpg" width="100%">
+</figure>
 
 ## Conferences
 Highlight of the conferences the group has attended to together.
@@ -47,26 +50,30 @@ Highlight of the conferences the group has attended to together.
 ### Organization for Human Brain Mapping (OHBM) 2022
 <figure style="text-align: center; margin-bottom: 100px;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/glasgow_1.jpg" class="img-responsive" width="100%" style="float: left" />
+</figure>
 
 
 #### Short video summarizing the trip
 <figure style="text-align: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YimXs4zL4Cs?si=RHTmh7HoknfgRVSS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</figure>
 
 ###  European Cooperation in Science and Technology Conference (COSTNET) 2019
 <figure style="text-align: center; margin-bottom: 100px;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/collage_costnet.jpg" class="img-responsive" width="100%" style="float: left" />
+</figure>
 
 #### Short video summarizing the trip
 <figure style="text-align: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4VrIX5HpacY?si=2qugljL9hCDabXyK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</figure>
 
-<div class="section-space"></div>
 
 ## NeuroTxoko Day
 <p style="text-align: justify;">Neurotxoko is a day in which all members of the team (and more guests) are invited to a space where we have fun through all the day, having lunch together, singing in the karaoke, cooking and so much more!</p>
 <figure style="text-align: center; margin-bottom: 100px;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/neurotxoko_1.jpg" width="100%" >
+</figure>
 
 #### Short video summarizing the Neurotxoko day 
 <figure style="text-align: center;">
@@ -74,3 +81,4 @@ Highlight of the conferences the group has attended to together.
     <source src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/neurotxoko_video.mp4" type="video/mp4">
     Tu navegador no soporta la etiqueta de video.
 </video>
+</figure>
