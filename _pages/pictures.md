@@ -41,7 +41,7 @@ Recap of the lastest Workshops
 
 ### DIPY 2023
 I need more info of what this was about etc.
-<figure style="text-align: center; margin-bottom: 30px;">
+<figure style="text-align: center; margin-bottom: 70px;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/DIPY_1.jpg" width="100%">
 </figure>
 
@@ -64,10 +64,11 @@ Highlight of the conferences the group has attended to together.
 <img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/collage_costnet.jpg" class="img-responsive" width="100%" style="float: left" />
 </figure>
 
+&nbsp;
 
 <h4 style="text-align: center;">Short video summarizing the trip</h4>
 
-<figure style="text-align: center;">
+<figure style="text-align: center; margin-bottom: 60px;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4VrIX5HpacY?si=2qugljL9hCDabXyK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </figure>
 
