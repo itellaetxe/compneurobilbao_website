@@ -53,18 +53,20 @@ Highlight of the conferences the group has attended to together.
 <img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/glasgow_1.jpg" class="img-responsive" width="100%" style="float: left" />
 </figure>
 
-#### Short video summarizing the trip
+<h4 style="text-align: center;">Short video summarizing the trip</h4>
 
 <figure style="text-align: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YimXs4zL4Cs?si=RHTmh7HoknfgRVSS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </figure>
 
 ###  European Cooperation in Science and Technology Conference (COSTNET) 2019
-<figure style="text-align: center; margin-bottom: 0px;">
+<figure style="text-align: center; margin-bottom: 60px;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/collage_costnet.jpg" class="img-responsive" width="100%" style="float: left" />
 </figure>
 
-#### Short video summarizing the trip
+
+<h4 style="text-align: center;">Short video summarizing the trip</h4>
+
 <figure style="text-align: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4VrIX5HpacY?si=2qugljL9hCDabXyK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </figure>
@@ -76,7 +78,8 @@ Highlight of the conferences the group has attended to together.
 <img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/neurotxoko_1.jpg" width="100%" >
 </figure>
 
-#### Short video summarizing the Neurotxoko day 
+<h4 style="text-align: center;">Short video summarizing the Neurotxoko day</h4>
+
 <figure style="text-align: center; display: flex; justify-content: center;">
 <video class="responsive-video" width="35%" style="float: left" controls>
     <source src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/neurotxoko_video.mp4" type="video/mp4">
