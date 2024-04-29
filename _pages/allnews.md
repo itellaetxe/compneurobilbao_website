@@ -7,17 +7,17 @@ sitemap: false
 ---
 
 # News
-
 {% for article in site.data.news %}
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="margin-right: 20px;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/{{ article.image }}" alt="News image" style="max-width: 200px; height: auto; display: block;">
+  <img src="{{ article.image }}" alt="News image" style="max-width: 200px; height: auto; display: block;">
   </div>
   <div style="flex-grow: 1;">
-    <p><strong>{{ article.date }}</strong></p>
-    <p>{{ article.headline | markdownify }}</p>
-    <p>{{ article.description }}</p>
+    <h3>{{ article.date }}</h3>
+    <h4>{{ article.headline | markdownify }}</h4>
+    <h5>{{ article.description }}</h5>
   </div>
 </div>
 {% endfor %}
+
 
