@@ -8,15 +8,18 @@ sitemap: false
 
 # News
 
+
 {% for article in site.data.news %}
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <div style="flex-shrink: 0; width: 200px; margin-right: 20px;">
-    <img src="{{ article.image }}" alt="News image" style="width: 100%;">
-  </div>
-  <div>
-    <p><strong>{{ article.date }}</strong></p>
-    <p>{{ article.headline | markdownify }}</p>
-    <p>{{ article.description }}</p>
-  </div>
-</div>
+<table style="width: 100%; margin-bottom: 20px;">
+  <tr>
+    <td style="width: 30%; padding-right: 20px;">
+      <img src="{{ article.image }}" alt="News image" style="width: 100%;">
+    </td>
+    <td style="vertical-align: top;">
+      <p><strong>{{ article.date }}</strong></p>
+      <p>{{ article.headline | markdownify }}</p>
+      <p>{{ article.description }}</p>
+    </td>
+  </tr>
+</table>
 {% endfor %}
