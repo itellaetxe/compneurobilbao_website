@@ -11,11 +11,11 @@ sitemap: false
 {% for article in site.data.news %}
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="margin-right: 20px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/{{ article.image }}" style="max-width: 200px; height: auto; display: block;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/{{ article.image }}" style="max-width: 400px; height: auto; display: block;">
   </div>
   <div style="flex-grow: 1;">
-  <h3>{{ article.date }}</h3>
-  <h4>{{ article.headline }}</h4> 
+  <h3>{{ article.headline }}</h3>
+  <h4>{{ article.date }}</h4> 
   <h5>{{ article.description }}</h5>
   </div>
 </div>
