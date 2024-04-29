@@ -8,12 +8,10 @@ sitemap: false
 
 # News
 
-
-
 {% for article in site.data.news %}
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="margin-right: 20px;">
-    <img src="{{ article.image }}" class="img-responsive">
+  <img src="{{ article.image }}" alt="News image" style="max-width: 200px; height: auto; display: block;">
   </div>
   <div style="flex-grow: 1;">
     <p><strong>{{ article.date }}</strong></p>
