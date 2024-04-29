@@ -1,6 +1,6 @@
 ---
 title: News
-permalink: "/allnews.html"
+permalink: "/allnews/"
 layout: textlay
 excerpt: CompNeuro Lab at IIS Biobizkaia
 sitemap: false
