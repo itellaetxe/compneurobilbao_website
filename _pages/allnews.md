@@ -1,9 +1,9 @@
 ---
-title: "News"
+title: News
+permalink: "/allnews.html"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: Allan Lab at Leiden University.
 sitemap: false
-permalink: /allnews.html
 ---
 
 # News
