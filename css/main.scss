@@ -21,7 +21,13 @@ body {
     line-height: 1.428571429;
     color: #555;
     background-color: #fff;
-  }
+}
+
+/* Deshabilitar el efecto de tap highlight */
+body, a, button, input {
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+  
   
 figcaption {
     text-align: right;
