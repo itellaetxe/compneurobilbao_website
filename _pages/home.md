@@ -9,7 +9,7 @@ layout: homelay
 <div markdown="0" id="home-image">
     <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/collage_2.jpg" alt="CompNeuro Bilbao Lab" />
 </div>
-<h1 style="text-align:center">Welcome to the CompNeuro Lab</h1>
+<h1 style="text-align:center">Welcome to the Computational Neuroimaging Lab</h1>
 
 <figure class="fourth image-center">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_compneuro.png" style="width: 210px; margin: 20px;">
