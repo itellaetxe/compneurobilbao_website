@@ -89,10 +89,12 @@ pubdesc {
 	}
 }
 
-/* Asegúrate de que el navbar sea responsivo */
+
+/* Navbar responsivo y Habilitar el scrolling suave en dispositivos iOS */
 .navbar-collapse {
+    -webkit-overflow-scrolling: touch;
     text-align: center;
-  }
+}
 
 /* Home, News */
 #newsid p {
