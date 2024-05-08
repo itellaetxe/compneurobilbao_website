@@ -13,14 +13,12 @@ collections:
     title: Uploads
     output: true
 email: your-email@domain.com
-description: 'Website of the CompNeuro Lab.
-
-'
-baseurl: "/BilbaoLab"
-url: https://ifiriondo.github.io
+description: 'Website of the CompNeuro Lab.'
+baseurl: "/BilbaoLab" # Ajusta a tu subdirectorio
+url: "https://ifiriondo.github.io" # Ajusta a la URL base correcta
 include:
-- ".htaccess"
-- _pages
+  - ".htaccess"
+  - _pages
 sass:
   sass_dir: _sass
 markdown: kramdown
@@ -35,6 +33,7 @@ kramdown:
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  smart_quotes: lsquo, rsquo, ldquo, rdquo
   enable_coderay: false
   parse_block_html: true
+
