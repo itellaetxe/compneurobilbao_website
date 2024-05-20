@@ -10,7 +10,7 @@ sitemap: false
 Jump to: [Data-Driven Computational Neuroscience](#data-driven-computational-neuroscience), [Applied Machine Learning for Computational Neuroscience](#applied-machine-learning-for-computational-neuroscience), [Preclinical Computational Neuroscience](#preclinical-computational-neuroscience)
 
 
-### Data-Driven Computational Neuroscience
+### Preclinical, Experimental and Animal Neuroscience
 
 <div style="display: flex; align-items: flex-start;">
 <div style="flex: 0 0 20%;"><!-- Adjust the width as needed -->
@@ -26,7 +26,7 @@ Jump to: [Data-Driven Computational Neuroscience](#data-driven-computational-neu
 </div>
 
 
-### Applied Machine Learning for Computational Neuroscience
+### Multiscale and Multimodal Brain Connectivity
 
 <div style="display: flex; align-items: flex-start;">
 <div style="flex: 0 0 20%;"><!-- Adjust the width as needed -->
@@ -41,7 +41,7 @@ Jump to: [Data-Driven Computational Neuroscience](#data-driven-computational-neu
 </div>
 </div>
 
-### Preclinical Computational Neuroscience
+### Clinical Machine Learning
 
 <div style="display: flex; align-items: flex-start;">
 <div style="flex: 0 0 20%;"><!-- Adjust the width as needed -->
