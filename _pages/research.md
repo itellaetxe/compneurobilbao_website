@@ -7,7 +7,7 @@ sitemap: false
 ---
 
 # Research Lines
-Jump to: [Data-Driven Computational Neuroscience](#data-driven-computational-neuroscience), [Applied Machine Learning for Computational Neuroscience](#applied-machine-learning-for-computational-neuroscience), [Preclinical Computational Neuroscience](#preclinical-computational-neuroscience)
+Jump to: [Preclinical, Experimental and Animal Neuroscience](#preclinical,-experimental-and-animal-neuroscience), [Multiscale and Multimodal Brain Connectivity](#multiscale-and-multimodal-brain-connectivity), [Clinical Machine Learning](#clinical-machine-learning)
 
 
 ### Preclinical, Experimental and Animal Neuroscience
