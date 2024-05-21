@@ -15,7 +15,7 @@ Jump to: [Data-Driven Computational Neuroscience](#data-driven-computational-neu
 <div style="display: flex; align-items: flex-start;">
 <div style="flex: 0 0 20%;"><!-- Adjust the width as needed -->
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/data_driven.png"  style="width: 100%;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/preclinical.jpg"  style="width: 100%;">
 </figure>
 </div>
 <div style="flex: 1; padding-left: 20px;"> <!-- This adds some space between the image and the text -->
@@ -29,7 +29,7 @@ Jump to: [Data-Driven Computational Neuroscience](#data-driven-computational-neu
 <div style="display: flex; align-items: flex-start;">
 <div style="flex: 0 0 20%;"><!-- Adjust the width as needed -->
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/machine_learning.PNG"  style="width: 100%;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/data_driven.png"  style="width: 100%;">
 </figure>
 </div>
 <div style="flex: 1; padding-left: 20px;"> <!-- This adds some space between the image and the text -->
@@ -42,7 +42,7 @@ Jump to: [Data-Driven Computational Neuroscience](#data-driven-computational-neu
 <div style="display: flex; align-items: flex-start;">
 <div style="flex: 0 0 20%;"><!-- Adjust the width as needed -->
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/preclinical.jpg"  style="width: 100%;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/machine_learning.PNG"  style="width: 100%;">
 </figure>
 </div>
 <div style="flex: 1; padding-left: 20px;"> <!-- This adds some space between the image and the text -->
