@@ -19,9 +19,7 @@ Jump to: [Data-Driven Computational Neuroscience](#data-driven-computational-neu
 </figure>
 </div>
 <div style="flex: 1; padding-left: 20px;"> <!-- This adds some space between the image and the text -->
-<p style="text-align: justify;">Data-driven computational neuroscience is an interdisciplinary field that applies quantitative data analysis and computational modeling techniques to understand the brain's structure and function. This approach leverages large datasets, like neural recordings, to unravel the complexities of neural systems.</p>
-<p style="text-align: justify;">**Team members working on this line:** </p>
-<p style="text-align: justify;">**Relevant works in the lab:** <a href="https://www.nature.com/articles/s41597-024-03060-2"> Jimenez-Marin, A et al. (2024) </a> </p>
+<p style="text-align: justify;">This research line investigates the fundamental mechanisms of the brain using animal models and experimental approaches. By exploring the neural processes in these models, we aim to uncover foundational insights that can drive scientific breakthroughs in neuroscience. </p>
 </div>
 </div>
 
@@ -35,9 +33,7 @@ Jump to: [Data-Driven Computational Neuroscience](#data-driven-computational-neu
 </figure>
 </div>
 <div style="flex: 1; padding-left: 20px;"> <!-- This adds some space between the image and the text -->
-<p style="text-align: justify;">Data-driven computational neuroscience is an interdisciplinary field that applies quantitative data analysis and computational modeling techniques to understand the brain's structure and function. This approach leverages large datasets, like neural recordings, to unravel the complexities of neural systems.</p>
-<p style="text-align: justify;">**Team members working on this line:** </p>
-<p style="text-align: justify;">**Relevant works in the lab:** <a href="https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/dad2.12493"> Garcia-Condado J. et al. (2023) </a> </p>
+<p style="text-align: justify;">This area of research focuses on elucidating the intricate networks of brain connectivity. By employing a combination of techniques across various scales, we map the complex interactions within the brain. Our goal is to develop a comprehensive understanding of how different regions of the brain communicate and collaborate. </p>
 </div>
 </div>
 
@@ -50,9 +46,7 @@ Jump to: [Data-Driven Computational Neuroscience](#data-driven-computational-neu
 </figure>
 </div>
 <div style="flex: 1; padding-left: 20px;"> <!-- This adds some space between the image and the text -->
-<p style="text-align: justify;">Data-driven computational neuroscience is an interdisciplinary field that applies quantitative data analysis and computational modeling techniques to understand the brain's structure and function. This approach leverages large datasets, like neural recordings, to unravel the complexities of neural systems.</p>
-<p style="text-align: justify;">**Team members working on this line:** </p>
-<p style="text-align: justify;">**Relevant works in the lab:** <a href="https://www.science.org/doi/abs/10.1126/science.1175509"> Bonifazi P. et al. (2009) </a> </p>
+<p style="text-align: justify;">Integrating machine learning with clinical neuroscience, this research line leverages advanced algorithms to analyze clinical data. Our objective is to enhance diagnostic accuracy and treatment efficacy for neurological disorders. By harnessing the power of artificial intelligence, we strive to offer innovative solutions for improving patient outcomes. </p>
 </div>
 </div>
 
