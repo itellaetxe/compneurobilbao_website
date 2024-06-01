@@ -1,3 +1,10 @@
+- date: 'May 27th, 2024'
+  headline: "Kicking Off the Lab's Journal Club with a Bang!"
+  description: 'Today our PI, Jesus Cortes, inaugurated our Journal Club by presenting the intriguing paper ["TMS-evoked responses are driven by recurrent large-scale 
+  network dynamics"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10121222/) from eLife Sciences. The presentation sparked a lively and insightful discussion among the team. 
+  Everyone enjoyed engaging with the topic and sharing diverse perspectives!'
+  image: 'journalclub_1.jpg'
+
 - date: 'April 29th, 2024'
   headline: 'Grace Whitaker visits the lab!'
   description: 'Today, we had the pleasure of meeting [Grace Whitaker](https://scholar.google.de/citations?user=NKqxpJUAAAAJ&hl=es&oi=sra) and learning about her work. 
@@ -6,16 +13,9 @@
   hugging is not only nice, it is a biological necessity :)'
   image: 'grace.JPG'
 
-- date: 'May 6th, 2024'
+  - date: 'May 6th, 2024'
   headline: 'Lorena Chacana new lab visitor gives a talk!'
   description: 'Today, we had the pleasure of having with us [Lorena Chacana](https://www.researchgate.net/profile/Lorena-Chacana-Veliz) from 
   Chile and learning about her work. She talked about the impaired mPFC - HPC oscillatory coupling in aged mice during spatial learning and we learned a lot about.
   Welcome to the lab and we hope you enejoy these two weeks in Bilbao!'
   image: 'lorena.jpeg'
-
-- date: 'May 27th, 2024'
-  headline: "Kicking Off the Lab's Journal Club with a Bang!"
-  description: 'Today our PI, Jesus Cortes, inaugurated our Journal Club by presenting the intriguing paper ["TMS-evoked responses are driven by recurrent large-scale 
-  network dynamics"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10121222/) from eLife Sciences. The presentation sparked a lively and insightful discussion among the team. 
-  Everyone enjoyed engaging with the topic and sharing diverse perspectives!'
-  image: 'journalclub_1.jpg'
