@@ -1,3 +1,11 @@
+- date: 'June 3rd, 2024'
+  headline: 'Gorka Zamora visits the lab!'
+  description: 'Today, we had a great talk with [Gorka Zamora Lopez](https://www.zamora-lopez.xyz/)  from Pompeu Fabra University in Barcelona. 
+  Gorka shared insights from his research, diving into everything from his earlier studies to the latest 
+  work on a cool new method they've developed for studying complex networks based on the propagation of 
+  stimulus/response activity.'
+  image: 'gorka_zamora.jpeg'
+
 - date: 'May 27th, 2024'
   headline: "Kicking Off the Lab's Journal Club with a Bang!"
   description: 'Today our PI, Jesus Cortes, inaugurated our Journal Club by presenting the intriguing paper ["TMS-evoked responses are driven by recurrent large-scale 
