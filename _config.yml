@@ -12,9 +12,8 @@ collections:
   uploads:
     title: Uploads
     output: true
-email: your-email@domain.com
 description: Website of the CompNeuro Lab.
-url: compneurobilbao.eus
+url: "https://compneurobilbao.eus"
 include:
 - ".htaccess"
 - _pages
