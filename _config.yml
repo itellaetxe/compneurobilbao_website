@@ -14,8 +14,8 @@ collections:
     output: true
 email: your-email@domain.com
 description: Website of the CompNeuro Lab.
-baseurl: "/BilbaoLab"
-url: https://ifiriondo.github.io
+baseurl: ""
+url: https://itellaetxe.github.io
 include:
 - ".htaccess"
 - _pages
