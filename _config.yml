@@ -14,7 +14,7 @@ collections:
     output: true
 email: your-email@domain.com
 description: Website of the CompNeuro Lab.
-url: https://itellaetxe.github.io
+url: compneurobilbao.eus
 include:
 - ".htaccess"
 - _pages
