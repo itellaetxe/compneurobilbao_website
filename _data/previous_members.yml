@@ -1,9 +1,11 @@
-- name: Ibai Diez
-  duration: In the CompNeuro Lab 2011 - 2015. Now assistant professor at Massachusetts General Hospital - Harvard Medical School
-  info: 
-  email: 
-  
 - name: Javi Rasero
-- name: Marilyn Gatica
-- name: Martin Iñiguez
+  duration: In CompNeuroBilbao Lab from 2015 to 2019.
+  info: Now assistant professor of Data Science at University of Virginia. <a href="https://scholar.google.es/citations?user=_OtISJQAAAAJ&hl=es"> Google Scholar </a>
 
+- name: Marilyn Gatica
+  duration: In CompNeuroBilbao Lab from 2021 to 2023.
+  info: Now Postdoctoral Research Assistant in the Network Science Institute at Northeastern University London. <a href="https://scholar.google.com/citations?user=QFTWPOgAAAAJ&hl=en"> Google Scholar </a>
+
+- name: Endika Martínez
+  duration: In CompNeuroBilbao Lab from 2020 to 2023.
+  info: Now Postdoctoral Researcher in Achucarro Basque Center for Neuroscience. <a href="https://orcid.org/0000-0002-1755-2106"> ORCID </a>
