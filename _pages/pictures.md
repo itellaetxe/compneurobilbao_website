@@ -1,18 +1,19 @@
 ---
-title: CompNeuro Lab - Pictures
-permalink: "/pictures/"
-layout: piclay
 excerpt: CompNeuro Lab -- Pictures
+layout: piclay
+permalink: /pictures/
+title: CompNeuro Lab - Pictures
 ---
 
 # Pictures
+
 Welcome to our picture gallery!
 Scroll through the page and match some of our best memories as a team!
 
 Jump to: [Group](#group), [Workshops](#workshops), [Conferences](#conferences), [NeuroTxoko Day](#neurotxoko-day)
 
-
 ## Group
+
 <p style="text-align: justify;">Welcome to our team of fusion researchers! 
 Principal investigators, young PhDs, doctoral students and master's students collaborating together. Physics, engineering, chemistry and much more. 
 Visit the Team page to learn more about us.</p>
@@ -25,10 +26,11 @@ Visit the Team page to learn more about us.</p>
 &nbsp;
 
 ## Workshops
+
 Recap of the lastest Workshops
 
-
 ### Bilbao Brain Connectivity Workshop (BCW) 2023
+
 <p style="text-align: justify;">Brain Connectivity Workshop (BCW) is an annual international meeting for in-depth discussions of all aspects of brain connectivity research. By bringing together experts in computational neuroscience, neuroscience methodology and experimental neuroscience, it aims to improve the understanding of the relationship between anatomical connectivity, brain dynamics and cognitive function. See bellow same images from that day.</p>
 
 <figure style="text-align: center;">
@@ -46,15 +48,19 @@ Recap of the lastest Workshops
 &nbsp;
 
 ### Diffusion Imaging in PYthon (DIPY) 2023
+
 The DIPY Workshop is an event focused on neuroimaging and medical analysis using Python, specifically targeting diffusion magnetic resonance imaging (dMRI) analysis. This workshop provides hands-on tutorials and lectures on various topics including modeling, segmentation, and bundle analytics. The event draws speakers and participants from the field of computational neuroanatomy and encourages the exchange of knowledge and ideas among academic, clinical, and industrial attendees.
+
 <figure style="text-align: center; margin-bottom: 70px;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/DIPY_1.jpg" width="100%">
 </figure>
 
 ## Conferences
+
 Highlight of the conferences the group has attended to together.
 
 ### Organization for Human Brain Mapping (OHBM) 2022
+
 <figure style="text-align: center;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/glasgow_1.jpg" class="img-responsive" width="100%" style="float: left" />
 </figure>
@@ -69,7 +75,8 @@ Highlight of the conferences the group has attended to together.
 
 &nbsp;
 
-###  European Cooperation in Science and Technology Conference (COSTNET) 2019
+### European Cooperation in Science and Technology Conference (COSTNET) 2019
+
 <figure style="text-align: center; margin-bottom: 60px;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/collage_costnet.jpg" class="img-responsive" width="100%" style="float: left" />
 </figure>
@@ -82,8 +89,8 @@ Highlight of the conferences the group has attended to together.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4VrIX5HpacY?si=2qugljL9hCDabXyK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </figure>
 
-
 ## NeuroTxoko Day
+
 <p style="text-align: justify;">Neurotxoko is a day in which all members of the team (and more guests) are invited to a space where we have fun through all the day, having lunch together, singing in the karaoke, cooking and so much more!</p>
 <figure style="text-align: center;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/neurotxoko_1.jpg" width="100%" >
@@ -98,4 +105,11 @@ Highlight of the conferences the group has attended to together.
     <source src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/neurotxoko_video.mp4" type="video/mp4">
     Tu navegador no soporta la etiqueta de video.
 </video>
+</figure>
+
+## Kayaking and BBQ at Urdaibai!
+
+<p style="text-align: justify;">This summer, we explored the stunning Urdaibai Biosphere by kayak and ended the day with a delicious BBQ by the beach. Nature, good food, and even better company!</p>
+<figure style="text-align: center;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/kayak.jpeg" width="100%" >
 </figure>
