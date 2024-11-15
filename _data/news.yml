@@ -1,3 +1,12 @@
+- date: 'October 21st, 2024'
+  headline: 'Former Lab Member Marylin Gatica visits us!"
+  description: "Today, we had a great talk with [Marylin Gatica](https://scholar.google.com/citations?user=QFTWPOgAAAAJ&hl=en) Postdoctoral Research 
+  Assistant in the Network Science Institute at Northeastern University London. 
+  Marylin shared her insights on Higher-order functional interactions in clinical applications. 
+  Using human fMRI data, she explored how these interactions help us better understand and predict healthy aging, neurodegenerative changes, and even how they might guide therapeutic neuromodulation. A fascinating dive into the future of neuroscience!"
+  image: 'marylin.jpeg'
+
+
 - date: 'June 3rd, 2024'
   headline: 'Gorka Zamora visits the lab!'
   description: "Today, we had a great talk with [Gorka Zamora Lopez](https://www.zamora-lopez.xyz/)  from Pompeu Fabra University in Barcelona. 
@@ -13,6 +22,13 @@
   Everyone enjoyed engaging with the topic and sharing diverse perspectives!'
   image: 'journalclub_1.jpg'
 
+- date: 'May 6th, 2024'
+  headline: 'Lorena Chacana new lab visitor gives a talk!'
+  description: 'Today, we had the pleasure of having with us [Lorena Chacana](https://www.researchgate.net/profile/Lorena-Chacana-Veliz) from 
+  Chile and learning about her work. She talked about the impaired mPFC - HPC oscillatory coupling in aged mice during spatial learning and we learned a lot about.
+  Welcome to the lab and we hope you enejoy these two weeks in Bilbao!'
+  image: 'lorena.jpeg'
+
 - date: 'April 29th, 2024'
   headline: 'Grace Whitaker visits the lab!'
   description: 'Today, we had the pleasure of meeting [Grace Whitaker](https://scholar.google.de/citations?user=NKqxpJUAAAAJ&hl=es&oi=sra) and learning about her work. 
@@ -20,10 +36,3 @@
   inhibition, harnessing neuronal entrainment, and the intersection of affective touch and technology. THM: 
   hugging is not only nice, it is a biological necessity :)'
   image: 'grace.JPG'
-
-- date: 'May 6th, 2024'
-  headline: 'Lorena Chacana new lab visitor gives a talk!'
-  description: 'Today, we had the pleasure of having with us [Lorena Chacana](https://www.researchgate.net/profile/Lorena-Chacana-Veliz) from 
-  Chile and learning about her work. She talked about the impaired mPFC - HPC oscillatory coupling in aged mice during spatial learning and we learned a lot about.
-  Welcome to the lab and we hope you enejoy these two weeks in Bilbao!'
-  image: 'lorena.jpeg'
