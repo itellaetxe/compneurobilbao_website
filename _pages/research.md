@@ -54,7 +54,7 @@ Jump to: [Preclinical, Experimental and Animal Neuroscience](#preclinical,-exper
 <div style="display: flex; align-items: flex-start;">
 <div style="flex: 0 0 20%;"><!-- Adjust the width as needed -->
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/neuromics.png"  style="width: 100%;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/neuromics2.png"  style="width: 100%;">
 </figure>
 </div>
 <div style="flex: 1; padding-left: 20px;"> <!-- This adds some space between the image and the text -->
