@@ -5,11 +5,10 @@
   [CompNeuroBilbao Lab YouTube Channel](https://www.youtube.com/@CompNeuroBilbaoLab). We look forward to welcoming you to Bilbao for this exciting event!"
   image: 'brain_modes_2024.jpg'
 
-  # TODO: Add the EHU Talks we gave on November
 - date: 'November 12th, 2024'
   headline: 'Talks on Computational Neuroimaging at UPV/EHU!'
-  description: "Our group was invited by UPV/EHU to give talks on **Computational Neuroimaging**. 
-  It was a great experience sharing what we do and connecting with students and experts."
+  description: "Our group was invited to the School of Engineering at San Mames in Bilbao to give talks on Computational Neuroimaging. 
+  It was a fantastic opportunity to share our work, explain key concepts, and discuss real-world applications with students and experts. The experience was both rewarding and inspiring for everyone involved."
   image: 'ehu_talks.jpeg'
 
 - date: 'October 21st, 2024'
