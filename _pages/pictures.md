@@ -10,7 +10,7 @@ title: CompNeuro Lab - Pictures
 Welcome to our picture gallery!
 Scroll through the page and match some of our best memories as a team!
 
-Jump to: [Group](#group), [Workshops](#workshops), [Conferences](#conferences), [NeuroTxoko Day](#neurotxoko-day)
+Jump to: [Group](#group), [Workshops](#workshops), [Conferences](#conferences), [Group FUN activities](#Group-FUN-activities)
 
 ## Group
 
@@ -89,7 +89,9 @@ Highlight of the conferences the group has attended to together.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4VrIX5HpacY?si=2qugljL9hCDabXyK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </figure>
 
-## NeuroTxoko Day
+## Group FUN activities
+
+### NeuroTxoko Day
 
 <p style="text-align: justify;">Neurotxoko is a day in which all members of the team (and more guests) are invited to a space where we have fun through all the day, having lunch together, singing in the karaoke, cooking and so much more!</p>
 <figure style="text-align: center;">
@@ -107,7 +109,7 @@ Highlight of the conferences the group has attended to together.
 </video>
 </figure>
 
-## Kayaking and BBQ at Urdaibai!
+### Kayaking and BBQ at Urdaibai!
 
 <p style="text-align: justify;">This summer, we explored the stunning Urdaibai Biosphere by kayak and ended the day with a delicious BBQ by the beach. Nature, good food, and even better company!</p>
 <figure style="text-align: center;">
