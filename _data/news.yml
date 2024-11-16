@@ -6,8 +6,13 @@
   image: 'brain_modes_2024.jpg'
 
   # TODO: Add the EHU Talks we gave on November
+- date: 'November 12th, 2024'
+  headline: 'Talks on Computational Neuroimaging at UPV/EHU!'
+  description: "Our group was invited by UPV/EHU to give talks on **Computational Neuroimaging**. 
+  It was a great experience sharing what we do and connecting with students and experts."
+  image: 'ehu_talks.jpeg'
 
-  - date: 'October 21st, 2024'
+- date: 'October 21st, 2024'
   headline: 'Former Lab Member Marylin Gatica visits us!'
   description: "Today, we had a great talk with [Marylin Gatica](https://scholar.google.com/citations?user=QFTWPOgAAAAJ&hl=en) Postdoctoral Research 
   Assistant in the Network Science Institute at Northeastern University London. 
