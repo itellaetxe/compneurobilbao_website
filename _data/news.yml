@@ -1,10 +1,18 @@
-- date: 'October 21st, 2024'
+- date: 'November 14th, 2024'
+  headline: 'BrainModes 2024'
+  description: "We are excited to announce that our lab will be hosting the BrainModes 2024 Bilbao conference! You can find more information about the program in the
+  [official website](https://brainmodes-bilbao-2024.eu/). We will also be streaming the speaker talks in the 
+  [CompNeuroBilbao Lab YouTube Channel](https://www.youtube.com/@CompNeuroBilbaoLab). We look forward to welcoming you to Bilbao for this exciting event!"
+  image: 'brain_modes_2024.jpg'
+
+  # TODO: Add the EHU Talks we gave on November
+
+  - date: 'October 21st, 2024'
   headline: 'Former Lab Member Marylin Gatica visits us!'
   description: "Today, we had a great talk with [Marylin Gatica](https://scholar.google.com/citations?user=QFTWPOgAAAAJ&hl=en) Postdoctoral Research 
   Assistant in the Network Science Institute at Northeastern University London. 
   Marylin shared her insights on Higher-order functional interactions in clinical applications. A fascinating dive into the future of neuroscience!"
   image: 'marylin.JPG'
-
 
 - date: 'June 3rd, 2024'
   headline: 'Gorka Zamora visits the lab!'
