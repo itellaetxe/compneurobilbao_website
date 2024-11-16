@@ -10,7 +10,7 @@ title: CompNeuro Lab - Pictures
 Welcome to our picture gallery!
 Scroll through the page and match some of our best memories as a team!
 
-Jump to: [Group](#group), [Workshops](#workshops), [Conferences](#conferences), [Group FUN activities](#Group-FUN-activities)
+Jump to: [Group](#group), [Workshops](#workshops), [Conferences](#conferences), [Group FUN activities](#group-fun-activities)
 
 ## Group
 
