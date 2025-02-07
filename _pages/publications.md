@@ -12,5 +12,3 @@ title: CompNeuro Lab - Publications
   <script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fzotero-group%2Fifigaga%2F5481914&jsonp=1"></script>
 </div>
 
-<!-- https://bibbase.org/show?bib=https://raw.githubusercontent.com/ifiriondo/BilbaoLab/master/_data/biblio.bib&jsonp=1&showSearch=1 -->
-
