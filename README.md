@@ -1,1 +1,1 @@
-CompNeuro Bilbao Lab Website: https://itellaetxe.github.io/ 
+CompNeuro Bilbao Lab Website: https://compneurobilbao.eus
