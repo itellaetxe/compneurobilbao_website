@@ -1,3 +1,7 @@
+- date: "February 10th, 2025"
+  headline: " Special Guest Speaker: Prof. Timothée Levi"
+  description: "This week, we welcomed Prof. Timothée Levi from Bordeaux, who presented his neuromorphic FPGA simulating hundreds of neurons in real time using optical sensors. His work prompted an insightful discussion on new directions in neuronal research."
+  image: 'tim.jpg'
 
 - date: 'November 18-21, 2024'
   headline: 'BrainModes 2024: What a Great Time!'
