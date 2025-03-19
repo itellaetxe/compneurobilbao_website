@@ -1,6 +1,10 @@
+- date: "February 17th, 2025"
+  headline: "Special Scientific Seminar: Prof. Sonja Kotz!"
+  description: "It was a pleasure hosting Prof. [Sonja Kotz](https://scholar.google.de/citations?user=2wVCGFUAAAAJ&hl=de) from Maastricht University on February 17th, who provided enlightening insights into how time and rhythm influence cognition, perception, and action during our hybrid seminar."
+
 - date: "February 10th, 2025"
   headline: " Special Guest Speaker: Prof. Timothée Levi"
-  description: "This week, we welcomed Prof. Timothée Levi from Bordeaux, who presented his neuromorphic FPGA simulating hundreds of neurons in real time using optical sensors. His work prompted an insightful discussion on new directions in neuronal research."
+  description: "This week, we welcomed Prof. [Timothée Levi](https://scholar.google.fr/citations?user=NY2bRRMAAAAJ&hl=fr) from Bordeaux, who presented his neuromorphic FPGA simulating hundreds of neurons in real time using optical sensors. His work prompted an insightful discussion on new directions in neuronal research."
   image: 'tim.jpg'
 
 - date: 'November 18-21, 2024'
