@@ -228,8 +228,12 @@ pubdesc {
 #home-image img {
     width: 100%;
     height: auto;
+    max-height: 500px; /* Opcional: establece una altura máxima para evitar que la imagen se estire demasiado */
+    object-fit: cover; /* La imagen cubre todo el contenedor, recortando si es necesario */
+    object-position: center; /* Opcional: centra la imagen dentro del contenedor */
     margin-bottom: 30px;
 }
+
 
 @media (max-width: 768px) {
     #home-image img {
