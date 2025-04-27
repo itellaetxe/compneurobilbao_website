@@ -93,6 +93,8 @@ Highlight of the conferences the group has attended to together.
 
 ### NeuroTxoko Day
 
+#### 2023
+
 <p style="text-align: justify;">Neurotxoko is a day in which all members of the team (and more guests) are invited to a space where we have fun through all the day, having lunch together, singing in the karaoke, cooking and so much more!</p>
 <figure style="text-align: center;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/neurotxoko_1.jpg" width="100%" >
@@ -107,6 +109,12 @@ Highlight of the conferences the group has attended to together.
     <source src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/neurotxoko_video.mp4" type="video/mp4">
     Tu navegador no soporta la etiqueta de video.
 </video>
+</figure>
+
+#### 2025
+
+<figure style="text-align: center; margin-bottom: 60px;">
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=RBzw2O7ArOQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </figure>
 
 ### Kayaking and BBQ at Urdaibai!
