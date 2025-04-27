@@ -114,7 +114,7 @@ Highlight of the conferences the group has attended to together.
 #### 2025
 
 <figure style="text-align: center; margin-bottom: 60px;">
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=RBzw2O7ArOQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/RBzw2O7ArOQ?si=imrJjMQjWa-Cz-0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </figure>
 
 ### Kayaking and BBQ at Urdaibai!
