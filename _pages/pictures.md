@@ -111,8 +111,11 @@ Highlight of the conferences the group has attended to together.
 
 <h2 style="text-align: center;">2025</h2>
 
-<figure style="text-align: center; margin-bottom: 60px;">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBzw2O7ArOQ?si=imrJjMQjWa-Cz-0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<figure style="text-align: center; display: flex; justify-content: center;">
+<video class="responsive-video" width="25%" style="float: left" controls>
+    <source src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/neurotxoko_2025.mp4" type="video/mp4">
+    Tu navegador no soporta la etiqueta de video.
+</video>
 </figure>
 
 ### Kayaking and BBQ at Urdaibai!
