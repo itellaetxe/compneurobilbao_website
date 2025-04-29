@@ -95,14 +95,34 @@ Highlight of the conferences the group has attended to together.
 
 <h2 style="text-align: center;">2023</h2>
 
-<p style="text-align: justify;">Neurotxoko is a day in which all members of the team (and more guests) are invited to a space where we have fun through all the day, having lunch together, singing in the karaoke, cooking and so much more!</p>
-<figure style="text-align: center;">
-<img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/neurotxoko_1.jpg" width="40%" >
+<!-- Contenedor -->
+<figure style="display:flex;                 /* ponlos en fila  */
+             align-items:center;             /* centrados verticalmente */
+             justify-content:center;         /* centrados en la página */
+             gap:24px;                       /* separación entre ellos  */
+             text-align:center;">            <!-- tu estilo original -->
+  
+  <!-- FOTO a la izquierda -->
+  <img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/neurotxoko_1.jpg"
+       style="max-width:400px; height:auto;" alt="Neurotxoko 2023">
+
+  <!-- VÍDEO a la derecha -->
+  <video class="responsive-video"
+         style="max-width:400px; height:auto;"   <!-- mismo tamaño aprox. -->
+         controls>
+      <source src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/neurotxoko_video.mp4"
+              type="video/mp4">
+      Tu navegador no soporta la etiqueta de vídeo.
+  </video>
+  
 </figure>
 
-&nbsp;
+<!-- <p style="text-align: justify;">Neurotxoko is a day in which all members of the team (and more guests) are invited to a space where we have fun through all the day, having lunch together, singing in the karaoke, cooking and so much more!</p>
+<figure style="text-align: center;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/neurotxoko_1.jpg" width="40%" >
+</figure> -->
 
-<figure style="text-align: center; display: flex; justify-content: center;">
+<!-- <figure style="text-align: center; display: flex; justify-content: center;">
 <video class="responsive-video" width="30%" style="float: left" controls>
     <source src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/neurotxoko_video.mp4" type="video/mp4">
     Tu navegador no soporta la etiqueta de video.
@@ -111,7 +131,7 @@ Highlight of the conferences the group has attended to together.
 
 <p style="text-align:center;">
     [Link al video]({{ site.url }}{{ site.baseurl }}/images/gallerypic/neurotxoko_video.mp4){:target="_blank"}
-</p>
+</p> -->
 
 <h2 style="text-align: center;">2025</h2>
 
