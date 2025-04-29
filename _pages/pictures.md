@@ -103,7 +103,7 @@ Highlight of the conferences the group has attended to together.
 &nbsp;
 
 <figure style="text-align: center; display: flex; justify-content: center;">
-<video class="responsive-video" width="40%" style="float: left" controls>
+<video class="responsive-video" width="30%" style="float: left" controls>
     <source src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/neurotxoko_video.mp4" type="video/mp4">
     Tu navegador no soporta la etiqueta de video.
 </video>
