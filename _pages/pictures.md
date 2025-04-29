@@ -115,6 +115,10 @@ Highlight of the conferences the group has attended to together.
 
 <h2 style="text-align: center;">2025</h2>
 
+<figure style="text-align: center; margin-bottom: 60px;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/neurotxoko_2025.jpg" class="img-responsive" width="100%" style="float: left" />
+</figure>
+
 <figure style="text-align:center;">
   <video width="25%" controls>
     <source src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/neurotxoko_2025.mp4" type="video/mp4">
