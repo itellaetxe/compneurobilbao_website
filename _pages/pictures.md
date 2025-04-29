@@ -97,13 +97,13 @@ Highlight of the conferences the group has attended to together.
 
 <p style="text-align: justify;">Neurotxoko is a day in which all members of the team (and more guests) are invited to a space where we have fun through all the day, having lunch together, singing in the karaoke, cooking and so much more!</p>
 <figure style="text-align: center;">
-<img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/neurotxoko_1.jpg" width="50%" >
+<img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/neurotxoko_1.jpg" width="40%" >
 </figure>
 
 &nbsp;
 
 <figure style="text-align: center; display: flex; justify-content: center;">
-<video class="responsive-video" width="45%" style="float: left" controls>
+<video class="responsive-video" width="40%" style="float: left" controls>
     <source src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/neurotxoko_video.mp4" type="video/mp4">
     Tu navegador no soporta la etiqueta de video.
 </video>
@@ -116,11 +116,11 @@ Highlight of the conferences the group has attended to together.
 <h2 style="text-align: center;">2025</h2>
 
 <figure style="text-align: center; margin-bottom: 60px;">
-<img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/neurotxoko_2025.jpg" class="img-responsive" width="50%" style="float: left" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/neurotxoko_2025.jpg" class="img-responsive" width="45%" style="float: left" />
 </figure>
 
 <figure style="text-align:center;">
-  <video width="50%" controls>
+  <video width="45%" controls>
     <source src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/neurotxoko_2025.mp4" type="video/mp4">
   </video>
 </figure>
