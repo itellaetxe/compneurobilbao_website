@@ -109,6 +109,8 @@ Highlight of the conferences the group has attended to together.
 </video>
 </figure>
 
+[Link al video]({{ site.url }}{{ site.baseurl }}/images/gallerypic/neurotxoko_video.mp4){:target="_blank"}
+
 <h2 style="text-align: center;">2025</h2>
 
 <figure style="text-align:center;">
@@ -117,7 +119,7 @@ Highlight of the conferences the group has attended to together.
   </video>
 </figure>
 
-[Ver / descargar el vídeo en una pestaña nueva]({{ site.url }}{{ site.baseurl }}/images/gallerypic/neurotxoko_2025.mp4){:target="_blank"}
+[Link al video]({{ site.url }}{{ site.baseurl }}/images/gallerypic/neurotxoko_2025.mp4){:target="_blank"}
 
 ### Kayaking and BBQ at Urdaibai!
 
