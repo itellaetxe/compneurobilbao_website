@@ -59,6 +59,19 @@ The DIPY Workshop is an event focused on neuroimaging and medical analysis using
 
 Highlight of the conferences the group has attended to together.
 
+### Brain Modes Bilbao 2024
+
+<figure style="text-align: center; display: flex; justify-content: center;">
+<video class="responsive-video" width="30%" style="float: left" controls>
+    <source src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/brain_modes.mp4" type="video/mp4">
+    Tu navegador no soporta la etiqueta de video.
+</video>
+</figure>
+
+<p style="text-align:center;">
+    [Link al video]({{ site.url }}{{ site.baseurl }}/images/gallerypic/brain_modes.mp4){:target="_blank"}
+</p>
+
 ### Organization for Human Brain Mapping (OHBM) 2022
 
 <figure style="text-align: center;">
