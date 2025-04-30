@@ -62,7 +62,7 @@ Highlight of the conferences the group has attended to together.
 ### Brain Modes Bilbao 2024
 
 <figure style="text-align: center;">
-<img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/brainmodes_collage.jpg" class="img-responsive" width="100%" style="float: left" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/brainmodes_collage.jpg" class="img-responsive" width="80%" style="float: left" />
 </figure>
 
 <figure style="text-align: center; display: flex; justify-content: center;">
