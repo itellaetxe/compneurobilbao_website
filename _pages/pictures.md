@@ -61,8 +61,12 @@ Highlight of the conferences the group has attended to together.
 
 ### Brain Modes Bilbao 2024
 
+<figure style="text-align: center;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/brainmodes_collage.jpg" class="img-responsive" width="100%" style="float: left" />
+</figure>
+
 <figure style="text-align: center; display: flex; justify-content: center;">
-<video class="responsive-video" width="30%" style="float: left" controls>
+<video class="responsive-video" width="60%" style="float: left" controls>
     <source src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/brain_modes.mp4" type="video/mp4">
     Tu navegador no soporta la etiqueta de video.
 </video>
@@ -114,7 +118,7 @@ Highlight of the conferences the group has attended to together.
 </figure>
 
 <figure style="text-align: center; display: flex; justify-content: center;">
-<video class="responsive-video" width="30%" style="float: left" controls>
+<video class="responsive-video" width="60%" style="float: left" controls>
     <source src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/neurotxoko_video.mp4" type="video/mp4">
     Tu navegador no soporta la etiqueta de video.
 </video>
