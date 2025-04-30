@@ -66,7 +66,7 @@ Highlight of the conferences the group has attended to together.
 </figure>
 
 <figure style="text-align: center; display: flex; justify-content: center;">
-<video class="responsive-video" width="60%" style="float: left" controls>
+<video class="responsive-video" width="70%" style="float: left" controls>
     <source src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/brain_modes.mp4" type="video/mp4">
     Tu navegador no soporta la etiqueta de video.
 </video>
