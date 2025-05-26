@@ -18,13 +18,13 @@ Jump to: [Group](#group), [Workshops](#workshops), [Conferences](#conferences), 
 Principal investigators, young PhDs, doctoral students and master's students collaborating together. Physics, engineering, chemistry and much more. 
 Visit the Team page to learn more about us.</p>
 
-### 2025
+<h3 style="text-align: center;">2025</h3>
 
 <figure style="text-align: center;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/group_2025.jpg" width="70%" >
 </figure>
 
-### 2024
+<h3 style="text-align: center;">2024</h3>
 
 <figure style="text-align: center;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/home1.jpg" width="70%" >
