@@ -362,6 +362,10 @@ Our dedicated team spans [Principal Investigators](#principal-investigators), [P
 
 <!-- ... Further content ... -->
 
+<div class="section-space"></div>
+<div class="section-space"></div> <!-- Espacio añadido aquí -->
+<div class="section-space"></div> <!-- Espacio añadido aquí -->
+
 ## PhD Students
 
 {% assign number_printed = 0 %}
