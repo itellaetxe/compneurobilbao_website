@@ -6,15 +6,6 @@ sitemap: false
 title: CompNeuro Lab - Team
 ---
 
-<!-- JavaScript to toggle the visibility of team member details -->
-
-<script type="text/javascript">
-  // Function to toggle the display of detailed information
-  function toggleDetails(memberId) {
-    var details = document.getElementById(memberId);
-    details.style.display = details.style.display === 'block' ? 'none' : 'block';
-  }
-
 # Team Members
 
 Meet the minds behind our research!
