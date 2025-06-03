@@ -11,9 +11,7 @@ title: CompNeuro Lab - Team
 Meet the minds behind our research!
 Our dedicated team spans [Principal Investigators](#principal-investigators), [Postdoctoral Researchers](#postdocs), [PhD Students](#phd-students), [Bachelor and Master Students](#bachelor-and-master-students) , and [Esteemed Alumni](#alumni), all collaborating to advance the frontiers of computational neuroimaging.
 
-
 ## Principal Investigators
-
 
 {% assign number_printed = 0 %}
 {% for member in site.data.pi %}
@@ -128,7 +126,6 @@ Our dedicated team spans [Principal Investigators](#principal-investigators), [P
 <div class="section-space"></div> <!-- Espacio añadido aquí -->
 
 <!-- ... Further content ... -->
-
 
 ## Postdocs
 
@@ -248,7 +245,6 @@ Our dedicated team spans [Principal Investigators](#principal-investigators), [P
 <div class="section-space"></div> <!-- Espacio añadido aquí -->
 <div class="section-space"></div> <!-- Espacio añadido aquí -->
 
-
 ## MD Clinical Neuroradiologist
 
 {% assign number_printed = 0 %}
@@ -367,7 +363,6 @@ Our dedicated team spans [Principal Investigators](#principal-investigators), [P
 <div class="section-space"></div> <!-- Espacio añadido aquí -->
 <div class="section-space"></div> <!-- Espacio añadido aquí -->
 
-
 ## PhD Students
 
 {% assign number_printed = 0 %}
@@ -484,7 +479,6 @@ Our dedicated team spans [Principal Investigators](#principal-investigators), [P
 
 ## Bachelor and Master Students
 
-
 {% assign number_printed = 0 %}
 {% for member in site.data.bachelor_master %}
 
@@ -598,7 +592,6 @@ Our dedicated team spans [Principal Investigators](#principal-investigators), [P
 <div class="section-space"></div> <!-- Espacio añadido aquí -->
 
 <!-- ... Further content ... -->
-
 
 ## Current Visitors
 
@@ -715,9 +708,7 @@ Our dedicated team spans [Principal Investigators](#principal-investigators), [P
 <div class="section-space"></div> <!-- Espacio añadido aquí -->
 <!-- ... Further content ... -->
 
-
 ## Alumni
-
 
 {% assign number_printed = 0 %}
 {% for member in site.data.previous_members %}
@@ -749,5 +740,18 @@ Our dedicated team spans [Principal Investigators](#principal-investigators), [P
 
 </div>
 {% endif %}
+
+<script>
+function toggleDetails(detailsId, headerId) {
+  const details = document.getElementById(detailsId);
+  if (!details) return;
+
+  if (details.style.display === "none" || details.style.display === "") {
+    details.style.display = "block";
+  } else {
+    details.style.display = "none";
+  }
+}
+</script>
 
 
